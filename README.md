@@ -1,1 +1,275 @@
-# cv
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="profile.jpg" />
+
+<span style="float:right;padding:6px"> 
+  Email: LewisAlan.Jones@uvigo.es <br> Mobile: +34 677073331 <br> Nationality: British
+</span>
+
+# Lewis A. Jones
+Postdoctoral Research Fellow\
+Vigo, Spain\
+[**LewisAlan.Jones\@uvigo.es**](mailto:LewisAlan.Jones@uvigo.es)
+
+### Education
+
+**PhD in Earth Sciences** (2016--2020)\
+Imperial College London, London, UK\
+Research advisors: Dr Philip D. Mannion & Prof. Peter A. Allison\
+Thesis title: On the detectability of the latitudinal biodiversity gradient in deep time
+
+**MPhysGeog in Physical Geography** (2011--2015)\
+University of Hull, Hull, UK\
+Research advisor: Prof. David P.G. Bond\
+Thesis title: The End-Triassic mass extinction. An investigation of the British Geological Record: testing for the role of volcanism and ocean anoxia
+
+**CMI (Level 5) in Management and Leadership** (2012--2015)\
+Leeds University Officer Training Corps, Leeds, UK
+
+### Employment
+
+**Postdoctoral Research Fellow (Juan de la Cierva)** (2023--current)\
+Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain
+
+**Postdoctoral Research Fellow (European Research Council)** (2021--2022)\
+Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain
+
+**Graduate Teaching Assistant** (2016--2021)\
+Department of Earth Science and Engineering, Imperial College London, London, UK
+
+**Student Hall's Warden** (2016--2021)\
+Woodward Buildings, Imperial College London, London, UK
+
+**British Army Officer Cadet** (2012--2015)\
+Leeds University Officer Training Corps, Leeds, UK
+
+**Sales Assistant** (2010--2012)\
+Republic Ltd, Grimsby and Hull, UK
+
+**Baker** (2008--2010)\
+Muffin Break, Grimsby, UK
+
+### Research focus
+
+-   Macroecology and biodiversity
+-   Fossil record bias
+-   Corals and reef ecosystems
+-   Palaeoclimate
+-   R programming
+
+### Publications
+
+#### **Peer-reviewed publications**
+
+1. Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). [Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies](https://doi.org/10.1111/2041-210X.14204). *Methods in Ecology and Evolution*. [View graphical abstract](images/MEE-GA.png).
+
+2. William Gearty and **Lewis A. Jones** (2023). [rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes](https://doi.org/10.1111/2041-210X.14221). *Methods in Ecology and Evolution*. 
+
+3.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). [palaeoverse: A community-driven R package to support palaeobiological analysis](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099). *Methods in Ecology and Evolution*. [View video abstract.](https://www.youtube.com/watch?v=7LDNm6P20aI)
+
+4.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). [Climatic and tectonic drivers shaped the tropical distribution of coral reefs](https://www.nature.com/articles/s41467-022-30793-8). *Nature Communications* 13 (3120), 1--10. [View graphical abstract.](images/NatComms-GA.png)
+
+5.  **Lewis A. Jones** and Kilian Eichenseer (2022). [Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) *Geology* 50 (2), 238--242. [View graphical abstract.](images/Geology-GA.jpg)
+
+6.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021). [Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762) *Proceedings of the Royal Society B* 288 (1945), 20202762. [View graphical abstract.](images/ProcB-GA.jpg)
+
+7.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). [Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change.](https://royalsocietypublishing.org/doi/10.1098/rsos.182111) *Royal Society Open Science* 6 (4), 182111. [View graphical abstract.](images/RoySoc-GA.jpg)
+
+8.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). [Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction.](https://www.nature.com/articles/s41467-019-08997-2) *Nature Communications* 10 (1091), 1--14. [View graphical abstract.](images/NatCommsDino-GA.jpg)
+
+#### **Theses**
+
+1.  **Lewis A. Jones** (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. *Supervisors: Dr Philip D. Mannion and Prof. Peter A. Allison*.
+
+2.  **Lewis A. Jones** (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master Thesis. *Supervisor: Dr David Bond*.
+
+#### **Other works**
+
+1.  **Lewis A. Jones** (2022). [Book review: Timefulness: How thinking like a geologist can help save the world](https://www.palass.org/sites/default/files/media/publications/newsletters/number_110/PAN110.pdf). *The Palaeontological Association Newsletter 110*.
+
+2.  Michael Stevens, Yiqiao Chen, Alex Stringer, Caitlin Clemmow, and **Lewis A. Jones** (2020). [Key factors driving obesity in the UK](https://drive.google.com/file/d/1MHWMo_bC1pw-hVEddibDvxsinlOK0Tjh/view). *GISRUK*.
+
+3.  **Lewis A. Jones** (2020). [Meeting report: 13th International Symposium of Fossil Cnidaria and Porifera](https://www.palass.org/sites/default/files/media/publications/newsletters/number_102/number_102.pdf). *The Palaeontological Association Newsletter 102*.
+
+### Academic awards and grants
+
+**R for Palaeobiologists: Workshop and Hackathon** (2022)\
+Grant-in-Aid from The Palaeontological Association, UK\
+Value: 2000 GBP
+
+**CASA team hackathon award** (2019)\
+Centre for Advanced Spatial Analysis, University College London, London\
+Value: 250 GBP
+
+**Travel grant award** (2019)\
+Palaeontological Association\
+Value: 220 EUR
+
+**President's PhD Scholarship** (2016)\
+Imperial College London, London, UK\
+Value: 70,000 GBP
+
+**Roger Ward thesis award** (2015)\
+University of Hull, Hull, UK
+
+### Invited presentations
+
+**PalaeoSIG (British Ecological Society): Masterclass in R** (2022)\
+Talk: Into the palaeoverse: a community-driven R package
+
+**Getech PLC** (2018)\
+Talk: Ecological modelling in Geosciences
+
+### Selected conference presentations
+
+**The Palaeontological Association: Annual Meeting** (2022)\
+Poster: Niche characterisation is biased by limited and heterogeneous spatial sampling
+
+**Simposio de Paleontologia del noroeste peninsular** (2022)\
+Poster: palaeoverse: a community-driven R package
+
+**The Palaeontological Association: Annual Meeting** (2019)\
+Talk: Poor spatial sampling coverage obscures our understanding of the latitudinal biodiversity gradient in deep time\
+Poster: Uneven spatial sampling in Phanerozoic palaeoclimate curves
+
+**13th International Symposium on Fossil Cnidaria and Porifera** (2019)\
+Talk: The evolution of the latitudinal biodiversity gradient in zooxanthellate corals
+
+**The past is a foreign country: how much can the fossil record actually inform conservation?** (2019)\
+Poster: Looking through the palaeontological window: reducing geographical and environmental bias in forecasting biodiversity responses
+
+**Crossing the Palaeontological--Ecological Gap** (2018)\
+Talk: Absence of evidence is not evidence of absence: quantifying reef coral range shifts under global climatic change
+
+**BES Macroecology** (2018)\
+Talk: Anthropogenic climate change and transitional distribution ranges of reef corals: insights from the last Pleistocene interglacial
+
+**The Palaeontological Association: Annual Meeting** (2017)\
+Poster: Ecological niche modelling in deep time: constraining the transitional distribution ranges of reef corals
+
+**European Coral Reef Symposium** (2017)\
+Poster: Anthropogenic climate change and transitional distribution ranges of reef corals: insights from the last Pleistocene interglacial
+
+### Fieldwork experience
+
+**León, Spain** (2022)\
+Logging and bulk sampling of Devonian sequences
+
+**Colorado and New Mexico, USA** (2016)\
+Logging, sampling, and fossil prospecting across the Cenomanian/Turonian boundary
+
+**Somerset, Lyme Regis, and Newark, UK** (2015)\
+Logging, sampling, and geochemical analysis across the Triassic/Jurassic boundary
+
+**Koh Rong, Cambodia** (2012)\
+Marine biological surveys as part of Koh Rong's (Cambodia) coral reef monitoring project
+
+### Professional development
+
+**Macroevolution and Phylogenies** (2022)\
+Transmitting Science, Online
+
+**Data manipulation and Statistical Analysis in Palaeoecology** (2021)\
+Palaeoecology Group, British Ecological Society, Online
+
+**Doctoral Summer School for Advanced Spatial Modelling** (2019)\
+The Centre for Advanced Spatial Analysis, University College London, London, UK
+
+**Species distribution modelling: fundamentals and the future workshop** (2019)\
+University of Nottingham, Nottingham, UK
+
+**Advanced ecological niche modelling** (2018)\
+University of Porto, Porto, Portugal
+
+**Introduction to ecological niche modelling** (2017)\
+Transmitting Science, Barcelona, Spain
+
+**Introduction to coral identification** (2017)\
+European Coral Reef Symposium, Oxford, UK
+
+**Introduction to larval dispersal modelling** (2017)\
+European Coral Reef Symposium, Oxford, UK
+
+### Student supervision
+
+**Miranta Kouvari** (2019--2023)\
+University College London, London, UK\
+PhD project: The latitudinal biodiversity gradient of South American eutherians
+
+**Lucas Buffan** (2021--2022)\
+University of Vigo, Vigo, Spain\
+Master's project: Spatial discrepancies in palaeogeographic reconstructions
+
+### Teaching and pastoral care
+
+**Graduate Teaching Assistant** (2016--2021)\
+Imperial College London, London, UK
+
+-   Palaeobiology I
+-   Palaeobiology II
+-   Dorset (UK) geology field course
+-   Almería (Spain) geology field course
+
+**Student Hall's Warden** (2016--2021)\
+Woodward Buildings, Imperial College London, London, UK
+
+### Professional service and outreach
+
+**IFCRS Early Career Researcher Representative** (2021--current)\
+Committee member of the International Fossil Coral and Reef Society (IFCRS)
+
+**IFCRS Lecture Series** (2022)\
+International Fossil Coral and Reef Society, Online\
+Co-organised and ran a lecture series on fossil corals and reefs
+
+**IFCRS Early Career Researcher Symposium** (2021)\
+International Fossil Coral and Reef Society, Online\
+Co-organised and ran an early career researcher meeting on fossil corals and reefs
+
+**Fossil Fact or Fiction stall** (2019)\
+Einstein's Garden, Green Man Festival, Brecon Beacons, Wales\
+Co-ran a stall on fossil record bias over the course of the festival, find out more [here!](https://www.palass.org/sites/default/files/media/publications/newsletters/number_103/number_103.pdf)
+
+**Ecological niche modelling workshop** (2018)\
+Imperial College London, London, UK\
+Co-organised and ran a workshop on ecological niche modelling
+
+**Palaeontological Association meeting** (2017)\
+Imperial College London, London, UK\
+Co-organised and ran the annual meeting of the Palaeontological Association
+
+### Peer-review experience
+
+*Science Advances*\
+*Nature Communications*\
+*Scientific Reports*\
+*Ecological Monographs*
+
+### Skills
+
+**R programming**\
+Advanced proficiency in data analysis, data visualization, writing functions and packages
+
+**Geocomputation**\
+Proficient in spatial analysis and the use of R spatial packages (e.g. raster, terra, sf, sp)
+
+**Languages**\
+Spanish (CEFR B1)\
+Mandarin Chinese (HSK1)
+
+**SCUBA diver**\
+BSAC-accredited Ocean and Sports Diver
+
+**First-Aid**\
+Emergency first-aid at work & automated external defibrillator\
+Outdoors emergency first-aid\
+Mental health first-aid\
+Active-bystander
+
+**Driving**\
+Full UK driving license
+
+### Memberships
+
+Member of the International Fossil Coral and Reef Society (2018--present)\
+Member of the Palaeontological Association (2017--present)\
+Member of the Conservation Paleobiology Network (2019--present)\
+Member of the British Ecological Society (2017--present)
