@@ -1,10 +1,13 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="profile.jpg" />
+<p style="font-size:48px;float:right;border-radius:50%;width:70px;padding:6px">
+  👨🏻‍💻👨🏻‍🔬
+</p>
 
 <span style="float:right;padding:6px"> 
-  Email: LewisAlan.Jones@uvigo.es <br> Mobile: +34 677073331 <br> Nationality: British
+  Email: [LewisAlan.Jones@uvigo.es](mailto:LewisAlan.Jones@uvigo.es) <br> Mobile: +34 677073331 <br> Nationality: British
 </span>
 
 # Lewis A. Jones
+
 Postdoctoral Research Fellow\
 Vigo, Spain\
 [**LewisAlan.Jones\@uvigo.es**](mailto:LewisAlan.Jones@uvigo.es)
@@ -59,9 +62,9 @@ Muffin Break, Grimsby, UK
 
 #### **Peer-reviewed publications**
 
-1. Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). [Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies](https://doi.org/10.1111/2041-210X.14204). *Methods in Ecology and Evolution*. [View graphical abstract](images/MEE-GA.png).
+1.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). [Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies](https://doi.org/10.1111/2041-210X.14204). *Methods in Ecology and Evolution*. [View graphical abstract](images/MEE-GA.png).
 
-2. William Gearty and **Lewis A. Jones** (2023). [rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes](https://doi.org/10.1111/2041-210X.14221). *Methods in Ecology and Evolution*. 
+2.  William Gearty and **Lewis A. Jones** (2023). [rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes](https://doi.org/10.1111/2041-210X.14221). *Methods in Ecology and Evolution*.
 
 3.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). [palaeoverse: A community-driven R package to support palaeobiological analysis](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099). *Methods in Ecology and Evolution*. [View video abstract.](https://www.youtube.com/watch?v=7LDNm6P20aI)
 
