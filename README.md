@@ -9,40 +9,40 @@ Vigo, Spain
 
 ### Education
 
-**PhD in Earth Sciences** (2016--2020)  
+**PhD in Earth Sciences** (2016&ndash;2020)  
 Imperial College London, London, UK  
 Research advisors: Dr Philip D. Mannion & Prof. Peter A. Allison  
 Thesis title: On the detectability of the latitudinal biodiversity gradient in deep time
 
-**MPhysGeog in Physical Geography** (2011--2015)  
+**MPhysGeog in Physical Geography** (2011&ndash;2015)  
 University of Hull, Hull, UK  
 Research advisor: Prof. David P.G. Bond  
 Thesis title: The End-Triassic mass extinction. An investigation of the British Geological Record: testing for the role of volcanism and ocean anoxia
 
-**CMI (Level 5) in Management and Leadership** (2012--2015)  
+**CMI (Level 5) in Management and Leadership** (2012&ndash;2015)  
 Leeds University Officer Training Corps, Leeds, UK
 
 ### Employment
 
-**Postdoctoral Research Fellow (Juan de la Cierva)** (2023--current)  
+**Postdoctoral Research Fellow (Juan de la Cierva)** (2023&ndash;current)  
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain
 
-**Postdoctoral Research Fellow (European Research Council)** (2021--2022)  
+**Postdoctoral Research Fellow (European Research Council)** (2021&ndash;2022)  
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain
 
-**Graduate Teaching Assistant** (2016--2021)  
+**Graduate Teaching Assistant** (2016&ndash;2021)  
 Department of Earth Science and Engineering, Imperial College London, London, UK
 
-**Student Hall's Warden** (2016--2021)  
+**Student Hall's Warden** (2016&ndash;2021)  
 Woodward Buildings, Imperial College London, London, UK
 
-**British Army Officer Cadet** (2012--2015)  
+**British Army Officer Cadet** (2012&ndash;2015)  
 Leeds University Officer Training Corps, Leeds, UK
 
-**Sales Assistant** (2010--2012)  
+**Sales Assistant** (2010&ndash;2012)  
 Republic Ltd, Grimsby and Hull, UK
 
-**Baker** (2008--2010)  
+**Baker** (2008&ndash;2010)  
 Muffin Break, Grimsby, UK
 
 ### Research focus
@@ -57,21 +57,21 @@ Muffin Break, Grimsby, UK
 
 #### **Peer-reviewed publications**
 
-1.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). [Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies](https://doi.org/10.1111/2041-210X.14204). *Methods in Ecology and Evolution*. [View graphical abstract](images/MEE-GA.png).
+1.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). [Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies](https://doi.org/10.1111/2041-210X.14204). *Methods in Ecology and Evolution*.
 
 2.  William Gearty and **Lewis A. Jones** (2023). [rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes](https://doi.org/10.1111/2041-210X.14221). *Methods in Ecology and Evolution*.
 
-3.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). [palaeoverse: A community-driven R package to support palaeobiological analysis](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099). *Methods in Ecology and Evolution*. [View video abstract.](https://www.youtube.com/watch?v=7LDNm6P20aI)
+3.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). [palaeoverse: A community-driven R package to support palaeobiological analysis](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099). *Methods in Ecology and Evolution*.
 
-4.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). [Climatic and tectonic drivers shaped the tropical distribution of coral reefs](https://www.nature.com/articles/s41467-022-30793-8). *Nature Communications* 13 (3120), 1--10. [View graphical abstract.](images/NatComms-GA.png)
+4.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). [Climatic and tectonic drivers shaped the tropical distribution of coral reefs](https://www.nature.com/articles/s41467-022-30793-8). *Nature Communications* 13 (3120), 1&ndash;10.
 
-5.  **Lewis A. Jones** and Kilian Eichenseer (2022). [Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) *Geology* 50 (2), 238--242. [View graphical abstract.](images/Geology-GA.jpg)
+5.  **Lewis A. Jones** and Kilian Eichenseer (2022). [Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) *Geology* 50 (2), 238&ndash;242.
 
-6.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021). [Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762) *Proceedings of the Royal Society B* 288 (1945), 20202762. [View graphical abstract.](images/ProcB-GA.jpg)
+6.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021). [Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762) *Proceedings of the Royal Society B* 288 (1945), 20202762.
 
-7.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). [Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change.](https://royalsocietypublishing.org/doi/10.1098/rsos.182111) *Royal Society Open Science* 6 (4), 182111. [View graphical abstract.](images/RoySoc-GA.jpg)
+7.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). [Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change.](https://royalsocietypublishing.org/doi/10.1098/rsos.182111) *Royal Society Open Science* 6 (4), 182111.
 
-8.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). [Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction.](https://www.nature.com/articles/s41467-019-08997-2) *Nature Communications* 10 (1091), 1--14. [View graphical abstract.](images/NatCommsDino-GA.jpg)
+8.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). [Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction.](https://www.nature.com/articles/s41467-019-08997-2) *Nature Communications* 10 (1091), 1&ndash;14.
 
 #### **Theses**
 
@@ -134,7 +134,7 @@ Talk: The evolution of the latitudinal biodiversity gradient in zooxanthellate c
 **The past is a foreign country: how much can the fossil record actually inform conservation?** (2019)  
 Poster: Looking through the palaeontological window: reducing geographical and environmental bias in forecasting biodiversity responses
 
-**Crossing the Palaeontological--Ecological Gap** (2018)  
+**Crossing the Palaeontological&ndash;Ecological Gap** (2018)  
 Talk: Absence of evidence is not evidence of absence: quantifying reef coral range shifts under global climatic change
 
 **BES Macroecology** (2018)  
@@ -188,17 +188,17 @@ European Coral Reef Symposium, Oxford, UK
 
 ### Student supervision
 
-**Miranta Kouvari** (2019--2023)  
+**Miranta Kouvari** (2019&ndash;2023)  
 University College London, London, UK  
 PhD project: The latitudinal biodiversity gradient of South American eutherians
 
-**Lucas Buffan** (2021--2022)  
+**Lucas Buffan** (2021&ndash;2022)  
 University of Vigo, Vigo, Spain  
 Master's project: Spatial discrepancies in palaeogeographic reconstructions
 
 ### Teaching and pastoral care
 
-**Graduate Teaching Assistant** (2016--2021)  
+**Graduate Teaching Assistant** (2016&ndash;2021)  
 Imperial College London, London, UK
 
 -   Palaeobiology I
@@ -206,12 +206,12 @@ Imperial College London, London, UK
 -   Dorset (UK) geology field course
 -   Almería (Spain) geology field course
 
-**Student Hall's Warden** (2016--2021)  
+**Student Hall's Warden** (2016&ndash;2021)  
 Woodward Buildings, Imperial College London, London, UK
 
 ### Professional service and outreach
 
-**IFCRS Early Career Researcher Representative** (2021--current)  
+**IFCRS Early Career Researcher Representative** (2021&ndash;current)  
 Committee member of the International Fossil Coral and Reef Society (IFCRS)
 
 **IFCRS Lecture Series** (2022)  
@@ -267,7 +267,7 @@ Full UK driving license
 
 ### Memberships
 
-Member of the International Fossil Coral and Reef Society (2018--present)  
-Member of the Palaeontological Association (2017--present)  
-Member of the Conservation Paleobiology Network (2019--present)  
-Member of the British Ecological Society (2017--present)
+Member of the International Fossil Coral and Reef Society (2018&ndash;present)  
+Member of the Palaeontological Association (2017&ndash;present)  
+Member of the Conservation Paleobiology Network (2019&ndash;present)  
+Member of the British Ecological Society (2017&ndash;present)
