@@ -4,45 +4,45 @@
 
 # Lewis A. Jones 👨🏻‍💻👨🏻‍🔬
 
-Postdoctoral Research Fellow\
+Postdoctoral Research Fellow  
 Vigo, Spain
 
 ### Education
 
-**PhD in Earth Sciences** (2016--2020)\
-Imperial College London, London, UK\
-Research advisors: Dr Philip D. Mannion & Prof. Peter A. Allison\
+**PhD in Earth Sciences** (2016--2020)  
+Imperial College London, London, UK  
+Research advisors: Dr Philip D. Mannion & Prof. Peter A. Allison  
 Thesis title: On the detectability of the latitudinal biodiversity gradient in deep time
 
-**MPhysGeog in Physical Geography** (2011--2015)\
-University of Hull, Hull, UK\
-Research advisor: Prof. David P.G. Bond\
+**MPhysGeog in Physical Geography** (2011--2015)  
+University of Hull, Hull, UK  
+Research advisor: Prof. David P.G. Bond  
 Thesis title: The End-Triassic mass extinction. An investigation of the British Geological Record: testing for the role of volcanism and ocean anoxia
 
-**CMI (Level 5) in Management and Leadership** (2012--2015)\
+**CMI (Level 5) in Management and Leadership** (2012--2015)  
 Leeds University Officer Training Corps, Leeds, UK
 
 ### Employment
 
-**Postdoctoral Research Fellow (Juan de la Cierva)** (2023--current)\
+**Postdoctoral Research Fellow (Juan de la Cierva)** (2023--current)  
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain
 
-**Postdoctoral Research Fellow (European Research Council)** (2021--2022)\
+**Postdoctoral Research Fellow (European Research Council)** (2021--2022)  
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain
 
-**Graduate Teaching Assistant** (2016--2021)\
+**Graduate Teaching Assistant** (2016--2021)  
 Department of Earth Science and Engineering, Imperial College London, London, UK
 
-**Student Hall's Warden** (2016--2021)\
+**Student Hall's Warden** (2016--2021)  
 Woodward Buildings, Imperial College London, London, UK
 
-**British Army Officer Cadet** (2012--2015)\
+**British Army Officer Cadet** (2012--2015)  
 Leeds University Officer Training Corps, Leeds, UK
 
-**Sales Assistant** (2010--2012)\
+**Sales Assistant** (2010--2012)  
 Republic Ltd, Grimsby and Hull, UK
 
-**Baker** (2008--2010)\
+**Baker** (2008--2010)  
 Muffin Break, Grimsby, UK
 
 ### Research focus
@@ -89,116 +89,116 @@ Muffin Break, Grimsby, UK
 
 ### Academic awards and grants
 
-**R for Palaeobiologists: Workshop and Hackathon** (2022)\
-Grant-in-Aid from The Palaeontological Association, UK\
+**R for Palaeobiologists: Workshop and Hackathon** (2022)  
+Grant-in-Aid from The Palaeontological Association, UK  
 Value: 2000 GBP
 
-**CASA team hackathon award** (2019)\
-Centre for Advanced Spatial Analysis, University College London, London\
+**CASA team hackathon award** (2019)  
+Centre for Advanced Spatial Analysis, University College London, London  
 Value: 250 GBP
 
-**Travel grant award** (2019)\
-Palaeontological Association\
+**Travel grant award** (2019)  
+Palaeontological Association  
 Value: 220 EUR
 
-**President's PhD Scholarship** (2016)\
-Imperial College London, London, UK\
+**President's PhD Scholarship** (2016)  
+Imperial College London, London, UK  
 Value: 70,000 GBP
 
-**Roger Ward thesis award** (2015)\
+**Roger Ward thesis award** (2015)  
 University of Hull, Hull, UK
 
 ### Invited presentations
 
-**PalaeoSIG (British Ecological Society): Masterclass in R** (2022)\
+**PalaeoSIG (British Ecological Society): Masterclass in R** (2022)  
 Talk: Into the palaeoverse: a community-driven R package
 
-**Getech PLC** (2018)\
+**Getech PLC** (2018)  
 Talk: Ecological modelling in Geosciences
 
 ### Selected conference presentations
 
-**The Palaeontological Association: Annual Meeting** (2022)\
+**The Palaeontological Association: Annual Meeting** (2022)  
 Poster: Niche characterisation is biased by limited and heterogeneous spatial sampling
 
-**Simposio de Paleontologia del noroeste peninsular** (2022)\
+**Simposio de Paleontologia del noroeste peninsular** (2022)  
 Poster: palaeoverse: a community-driven R package
 
-**The Palaeontological Association: Annual Meeting** (2019)\
-Talk: Poor spatial sampling coverage obscures our understanding of the latitudinal biodiversity gradient in deep time\
+**The Palaeontological Association: Annual Meeting** (2019)  
+Talk: Poor spatial sampling coverage obscures our understanding of the latitudinal biodiversity gradient in deep time  
 Poster: Uneven spatial sampling in Phanerozoic palaeoclimate curves
 
-**13th International Symposium on Fossil Cnidaria and Porifera** (2019)\
+**13th International Symposium on Fossil Cnidaria and Porifera** (2019)  
 Talk: The evolution of the latitudinal biodiversity gradient in zooxanthellate corals
 
-**The past is a foreign country: how much can the fossil record actually inform conservation?** (2019)\
+**The past is a foreign country: how much can the fossil record actually inform conservation?** (2019)  
 Poster: Looking through the palaeontological window: reducing geographical and environmental bias in forecasting biodiversity responses
 
-**Crossing the Palaeontological--Ecological Gap** (2018)\
+**Crossing the Palaeontological--Ecological Gap** (2018)  
 Talk: Absence of evidence is not evidence of absence: quantifying reef coral range shifts under global climatic change
 
-**BES Macroecology** (2018)\
+**BES Macroecology** (2018)  
 Talk: Anthropogenic climate change and transitional distribution ranges of reef corals: insights from the last Pleistocene interglacial
 
-**The Palaeontological Association: Annual Meeting** (2017)\
+**The Palaeontological Association: Annual Meeting** (2017)  
 Poster: Ecological niche modelling in deep time: constraining the transitional distribution ranges of reef corals
 
-**European Coral Reef Symposium** (2017)\
+**European Coral Reef Symposium** (2017)  
 Poster: Anthropogenic climate change and transitional distribution ranges of reef corals: insights from the last Pleistocene interglacial
 
 ### Fieldwork experience
 
-**León, Spain** (2022)\
+**León, Spain** (2022)  
 Logging and bulk sampling of Devonian sequences
 
-**Colorado and New Mexico, USA** (2016)\
+**Colorado and New Mexico, USA** (2016)  
 Logging, sampling, and fossil prospecting across the Cenomanian/Turonian boundary
 
-**Somerset, Lyme Regis, and Newark, UK** (2015)\
+**Somerset, Lyme Regis, and Newark, UK** (2015)  
 Logging, sampling, and geochemical analysis across the Triassic/Jurassic boundary
 
-**Koh Rong, Cambodia** (2012)\
+**Koh Rong, Cambodia** (2012)  
 Marine biological surveys as part of Koh Rong's (Cambodia) coral reef monitoring project
 
 ### Professional development
 
-**Macroevolution and Phylogenies** (2022)\
+**Macroevolution and Phylogenies** (2022)  
 Transmitting Science, Online
 
-**Data manipulation and Statistical Analysis in Palaeoecology** (2021)\
+**Data manipulation and Statistical Analysis in Palaeoecology** (2021)  
 Palaeoecology Group, British Ecological Society, Online
 
-**Doctoral Summer School for Advanced Spatial Modelling** (2019)\
+**Doctoral Summer School for Advanced Spatial Modelling** (2019)  
 The Centre for Advanced Spatial Analysis, University College London, London, UK
 
-**Species distribution modelling: fundamentals and the future workshop** (2019)\
+**Species distribution modelling: fundamentals and the future workshop** (2019)  
 University of Nottingham, Nottingham, UK
 
-**Advanced ecological niche modelling** (2018)\
+**Advanced ecological niche modelling** (2018)  
 University of Porto, Porto, Portugal
 
-**Introduction to ecological niche modelling** (2017)\
+**Introduction to ecological niche modelling** (2017)  
 Transmitting Science, Barcelona, Spain
 
-**Introduction to coral identification** (2017)\
+**Introduction to coral identification** (2017)  
 European Coral Reef Symposium, Oxford, UK
 
-**Introduction to larval dispersal modelling** (2017)\
+**Introduction to larval dispersal modelling** (2017)  
 European Coral Reef Symposium, Oxford, UK
 
 ### Student supervision
 
-**Miranta Kouvari** (2019--2023)\
-University College London, London, UK\
+**Miranta Kouvari** (2019--2023)  
+University College London, London, UK  
 PhD project: The latitudinal biodiversity gradient of South American eutherians
 
-**Lucas Buffan** (2021--2022)\
-University of Vigo, Vigo, Spain\
+**Lucas Buffan** (2021--2022)  
+University of Vigo, Vigo, Spain  
 Master's project: Spatial discrepancies in palaeogeographic reconstructions
 
 ### Teaching and pastoral care
 
-**Graduate Teaching Assistant** (2016--2021)\
+**Graduate Teaching Assistant** (2016--2021)  
 Imperial College London, London, UK
 
 -   Palaeobiology I
@@ -206,68 +206,68 @@ Imperial College London, London, UK
 -   Dorset (UK) geology field course
 -   Almería (Spain) geology field course
 
-**Student Hall's Warden** (2016--2021)\
+**Student Hall's Warden** (2016--2021)  
 Woodward Buildings, Imperial College London, London, UK
 
 ### Professional service and outreach
 
-**IFCRS Early Career Researcher Representative** (2021--current)\
+**IFCRS Early Career Researcher Representative** (2021--current)  
 Committee member of the International Fossil Coral and Reef Society (IFCRS)
 
-**IFCRS Lecture Series** (2022)\
-International Fossil Coral and Reef Society, Online\
+**IFCRS Lecture Series** (2022)  
+International Fossil Coral and Reef Society, Online  
 Co-organised and ran a lecture series on fossil corals and reefs
 
-**IFCRS Early Career Researcher Symposium** (2021)\
-International Fossil Coral and Reef Society, Online\
+**IFCRS Early Career Researcher Symposium** (2021)  
+International Fossil Coral and Reef Society, Online  
 Co-organised and ran an early career researcher meeting on fossil corals and reefs
 
-**Fossil Fact or Fiction stall** (2019)\
-Einstein's Garden, Green Man Festival, Brecon Beacons, Wales\
+**Fossil Fact or Fiction stall** (2019)  
+Einstein's Garden, Green Man Festival, Brecon Beacons, Wales  
 Co-ran a stall on fossil record bias over the course of the festival, find out more [here!](https://www.palass.org/sites/default/files/media/publications/newsletters/number_103/number_103.pdf)
 
-**Ecological niche modelling workshop** (2018)\
-Imperial College London, London, UK\
+**Ecological niche modelling workshop** (2018)  
+Imperial College London, London, UK  
 Co-organised and ran a workshop on ecological niche modelling
 
-**Palaeontological Association meeting** (2017)\
-Imperial College London, London, UK\
+**Palaeontological Association meeting** (2017)  
+Imperial College London, London, UK  
 Co-organised and ran the annual meeting of the Palaeontological Association
 
 ### Peer-review experience
 
-*Science Advances*\
-*Nature Communications*\
-*Scientific Reports*\
+*Science Advances*  
+*Nature Communications*  
+*Scientific Reports*  
 *Ecological Monographs*
 
 ### Skills
 
-**R programming**\
+**R programming**  
 Advanced proficiency in data analysis, data visualization, writing functions and packages
 
-**Geocomputation**\
+**Geocomputation**  
 Proficient in spatial analysis and the use of R spatial packages (e.g. raster, terra, sf, sp)
 
-**Languages**\
-Spanish (CEFR B1)\
+**Languages**  
+Spanish (CEFR B1)  
 Mandarin Chinese (HSK1)
 
-**SCUBA diver**\
+**SCUBA diver**  
 BSAC-accredited Ocean and Sports Diver
 
-**First-Aid**\
-Emergency first-aid at work & automated external defibrillator\
-Outdoors emergency first-aid\
-Mental health first-aid\
+**First-Aid**  
+Emergency first-aid at work & automated external defibrillator  
+Outdoors emergency first-aid  
+Mental health first-aid  
 Active-bystander
 
-**Driving**\
+**Driving**  
 Full UK driving license
 
 ### Memberships
 
-Member of the International Fossil Coral and Reef Society (2018--present)\
-Member of the Palaeontological Association (2017--present)\
-Member of the Conservation Paleobiology Network (2019--present)\
+Member of the International Fossil Coral and Reef Society (2018--present)  
+Member of the Palaeontological Association (2017--present)  
+Member of the Conservation Paleobiology Network (2019--present)  
 Member of the British Ecological Society (2017--present)
