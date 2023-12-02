@@ -1,16 +1,15 @@
-<p style="font-size:48px;float:right;border-radius:50%;width:70px;padding:6px">
+<p style="font-size:48px">
   👨🏻‍💻👨🏻‍🔬
 </p>
 
 <span style="float:right;padding:6px"> 
-  Email: [LewisAlan.Jones@uvigo.es](mailto:LewisAlan.Jones@uvigo.es) <br> Mobile: +34 677073331 <br> Nationality: British
+  <b>Email:</b> <a href = "mailto: LewisA.Jones@outlook.com">LewisA.Jones@outlook.com</a> <br> <b>Mobile:</b> +34 677073331 <br> <b>Nationality:</b> British
 </span>
 
 # Lewis A. Jones
 
 Postdoctoral Research Fellow\
-Vigo, Spain\
-[**LewisAlan.Jones\@uvigo.es**](mailto:LewisAlan.Jones@uvigo.es)
+Vigo, Spain
 
 ### Education
 
