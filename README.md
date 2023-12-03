@@ -1,8 +1,15 @@
 <span style="float:right;padding:6px"> 
-  <b>Email:</b> <a href = "mailto: LewisA.Jones@outlook.com" style="text-decoration:none">LewisA.Jones@outlook.com</a> <br> <b>Website:</b>  <a href = "www.lewisajones.com" style="text-decoration:none">www.LewisAJones.com</a> <br> <b>Postdoctoral Research Fellow</b> <br> <b>Vigo, Spain</b> 🇪🇸
+  <b>Email:</b> <a href = "mailto: LewisA.Jones@outlook.com" style="text-decoration:none">LewisA.Jones@outlook.com</a> <br> <b>Website:</b>  <a href = "www.lewisajones.com" style="text-decoration:none">LewisAJones.com</a> <br> <b>Nationality:</b> British 🇬🇧
 </span>
 
 # Lewis A. Jones 👨🏻‍💻👨🏻‍🔬
+
+GitHub actions test
+
+### Current position
+
+**Juan de la Cierva Postdoctoral Research Fellow** (2023&ndash;current)  
+Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain 🇪🇸
 
 ### Education
 
@@ -54,35 +61,35 @@ Muffin Break, Grimsby, UK
 
 #### **Peer-reviewed publications**
 
-8.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). [Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies](https://doi.org/10.1111/2041-210X.14204). *Methods in Ecology and Evolution* (Early View).
+1.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). [Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies](https://doi.org/10.1111/2041-210X.14204). *Methods in Ecology and Evolution* (Early View).
 
-7.  William Gearty and **Lewis A. Jones** (2023). [rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes](https://doi.org/10.1111/2041-210X.14221). *Methods in Ecology and Evolution* 14 (11), 2700&ndash;2708.
+2.  William Gearty and **Lewis A. Jones** (2023). [rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes](https://doi.org/10.1111/2041-210X.14221). *Methods in Ecology and Evolution* 14 (11), 2700&ndash;2708.
 
-6.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). [palaeoverse: A community-driven R package to support palaeobiological analysis](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099). *Methods in Ecology and Evolution* 14 (9), 2205&ndash;2215.
+3.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). [palaeoverse: A community-driven R package to support palaeobiological analysis](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099). *Methods in Ecology and Evolution* 14 (9), 2205&ndash;2215.
 
-5.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). [Climatic and tectonic drivers shaped the tropical distribution of coral reefs](https://www.nature.com/articles/s41467-022-30793-8). *Nature Communications* 13 (3120), 1&ndash;10.
+4.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). [Climatic and tectonic drivers shaped the tropical distribution of coral reefs](https://www.nature.com/articles/s41467-022-30793-8). *Nature Communications* 13 (3120), 1&ndash;10.
 
-4.  **Lewis A. Jones** and Kilian Eichenseer (2022). [Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) *Geology* 50 (2), 238&ndash;242.
+5.  **Lewis A. Jones** and Kilian Eichenseer (2022). [Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) *Geology* 50 (2), 238&ndash;242.
 
-3.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021). [Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762) *Proceedings of the Royal Society B* 288 (1945), 20202762.
+6.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021). [Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762) *Proceedings of the Royal Society B* 288 (1945), 20202762.
 
-2.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). [Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change.](https://royalsocietypublishing.org/doi/10.1098/rsos.182111) *Royal Society Open Science* 6 (4), 182111.
+7.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). [Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change.](https://royalsocietypublishing.org/doi/10.1098/rsos.182111) *Royal Society Open Science* 6 (4), 182111.
 
-1.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). [Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction.](https://www.nature.com/articles/s41467-019-08997-2) *Nature Communications* 10 (1091), 1&ndash;14.
+8.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). [Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction.](https://www.nature.com/articles/s41467-019-08997-2) *Nature Communications* 10 (1091), 1&ndash;14.
 
 #### **Theses**
 
-2.  **Lewis A. Jones** (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. *Supervisors: Dr Philip D. Mannion and Prof. Peter A. Allison*.
+1.  **Lewis A. Jones** (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. *Supervisors: Dr Philip D. Mannion and Prof. Peter A. Allison*.
 
-1.  **Lewis A. Jones** (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master Thesis. *Supervisor: Dr David Bond*.
+2.  **Lewis A. Jones** (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master Thesis. *Supervisor: Dr David Bond*.
 
 #### **Other works**
 
-3.  **Lewis A. Jones** (2022). [Book review: Timefulness: How thinking like a geologist can help save the world](https://www.palass.org/sites/default/files/media/publications/newsletters/number_110/PAN110.pdf). *The Palaeontological Association Newsletter 110*.
+1.  **Lewis A. Jones** (2022). [Book review: Timefulness: How thinking like a geologist can help save the world](https://www.palass.org/sites/default/files/media/publications/newsletters/number_110/PAN110.pdf). *The Palaeontological Association Newsletter 110*.
 
 2.  Michael Stevens, Yiqiao Chen, Alex Stringer, Caitlin Clemmow, and **Lewis A. Jones** (2020). [Key factors driving obesity in the UK](https://drive.google.com/file/d/1MHWMo_bC1pw-hVEddibDvxsinlOK0Tjh/view). *GISRUK*.
 
-1.  **Lewis A. Jones** (2020). [Meeting report: 13th International Symposium of Fossil Cnidaria and Porifera](https://www.palass.org/sites/default/files/media/publications/newsletters/number_102/number_102.pdf). *The Palaeontological Association Newsletter 102*.
+3.  **Lewis A. Jones** (2020). [Meeting report: 13th International Symposium of Fossil Cnidaria and Porifera](https://www.palass.org/sites/default/files/media/publications/newsletters/number_102/number_102.pdf). *The Palaeontological Association Newsletter 102*.
 
 ### Academic awards and grants
 
@@ -107,6 +114,8 @@ University of Hull, Hull, UK
 
 ### Invited presentations
 
+ADD VIENNA
+
 **PalaeoSIG (British Ecological Society): Masterclass in R** (2022)  
 Talk: Into the palaeoverse: a community-driven R package
 
@@ -114,6 +123,8 @@ Talk: Into the palaeoverse: a community-driven R package
 Talk: Ecological modelling in Geosciences
 
 ### Selected conference presentations
+
+ADD POLAND
 
 **The Palaeontological Association: Annual Meeting** (2022)  
 Poster: Niche characterisation is biased by limited and heterogeneous spatial sampling
@@ -144,6 +155,8 @@ Poster: Ecological niche modelling in deep time: constraining the transitional d
 Poster: Anthropogenic climate change and transitional distribution ranges of reef corals: insights from the last Pleistocene interglacial
 
 ### Fieldwork experience
+
+ADD EGYPT
 
 **León, Spain** (2022)  
 Logging and bulk sampling of Devonian sequences
@@ -208,6 +221,8 @@ Woodward Buildings, Imperial College London, London, UK
 
 ### Professional service and outreach
 
+ADD RPHYLOPIC
+
 **IFCRS Early Career Researcher Representative** (2021&ndash;current)  
 Committee member of the International Fossil Coral and Reef Society (IFCRS)
 
@@ -233,12 +248,17 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 
 ### Peer-review experience
 
+ADD MEE
+ADD TREE
+
 *Science Advances*  
 *Nature Communications*  
 *Scientific Reports*  
 *Ecological Monographs*
 
 ### Skills
+
+UPDATE
 
 **R programming**  
 Advanced proficiency in data analysis, data visualization, writing functions and packages
@@ -263,6 +283,8 @@ Active-bystander
 Full UK driving license
 
 ### Memberships
+
+UPDATE
 
 Member of the International Fossil Coral and Reef Society (2018&ndash;present)  
 Member of the Palaeontological Association (2017&ndash;present)  
