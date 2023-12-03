@@ -110,7 +110,8 @@ University of Hull, Hull, UK
 
 ## Invited presentations
 
-ADD VIENNA
+**Department of Palaeontology, University of Vienna, Austria** (2023)
+Talk: Into the palaeoverse: a community-driven R package
 
 **PalaeoSIG (British Ecological Society): Masterclass in R** (2022)  
 Talk: Into the palaeoverse: a community-driven R package
@@ -120,7 +121,8 @@ Talk: Ecological modelling in Geosciences
 
 ## Selected conference presentations
 
-ADD POLAND
+**14<sup>th</sup> International Fossil Coral and Reef Society symposium** (2023)  
+Talk: Inverse latitudinal diversity gradients in Last Interglacial coral reef communities
 
 **The Palaeontological Association: Annual Meeting** (2022)  
 Poster: Niche characterisation is biased by limited and heterogeneous spatial sampling
@@ -152,7 +154,8 @@ Poster: Anthropogenic climate change and transitional distribution ranges of ree
 
 ## Fieldwork experience
 
-ADD EGYPT
+**El Qoseir, Egypt** (2023)
+Modern and fossil (Last Interglacial) coral reef data collection
 
 **León, Spain** (2022)  
 Logging and bulk sampling of Devonian sequences
@@ -217,9 +220,14 @@ Woodward Buildings, Imperial College London, London, UK
 
 ## Professional service and outreach
 
-ADD RPHYLOPIC
+**IFCRS Internet Officer** (2023&ndash;current)  
+Committee member of the International Fossil Coral and Reef Society (IFCRS)
 
-**IFCRS Early Career Researcher Representative** (2021&ndash;current)  
+**Methods in Ecology and Evolution: Live!** (2023)  
+Online workshop  
+Introduction to rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes
+
+**IFCRS Early Career Researcher Representative** (2021&ndash;2023)  
 Committee member of the International Fossil Coral and Reef Society (IFCRS)
 
 **IFCRS Lecture Series** (2022)  
@@ -244,20 +252,17 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 
 ## Peer-review experience
 
-ADD MEE
-ADD TREE
-
-*Science Advances*  
+*Ecological Monographs*  
+*Methods in Ecology and Evolution*  
 *Nature Communications*  
+*Science Advances*  
 *Scientific Reports*  
-*Ecological Monographs*
+*Trends in Ecology and Evolution*
 
 ## Skills
 
-UPDATE
-
 **R programming**  
-Advanced proficiency in data analysis, data visualization, writing functions and packages
+Advanced proficiency in data analysis, data visualization, writing functions and developing packages
 
 **Geocomputation**  
 Proficient in spatial analysis and the use of R spatial packages (e.g. raster, terra, sf, sp)
@@ -280,9 +285,8 @@ Full UK driving license
 
 ## Memberships
 
-UPDATE
-
 Member of the International Fossil Coral and Reef Society (2018&ndash;present)  
 Member of the Palaeontological Association (2017&ndash;present)  
+Member of the Paleontological Soceity (2023&ndash;present)  
 Member of the Conservation Paleobiology Network (2019&ndash;present)  
 Member of the British Ecological Society (2017&ndash;present)
