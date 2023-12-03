@@ -30,3 +30,6 @@ jobs:
           git add index.html
           git commit -m 'Index updated' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
+        env:
+          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+          username: github-actions
