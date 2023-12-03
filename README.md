@@ -4,8 +4,6 @@
 
 # Lewis A. Jones 👨🏻‍💻👨🏻‍🔬
 
-This is a test
-
 ### Current position
 
 **Juan de la Cierva Postdoctoral Research Fellow** (2023&ndash;current)  
