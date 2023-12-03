@@ -4,9 +4,7 @@
 
 # Lewis A. Jones 👨🏻‍💻👨🏻‍🔬
 
-## Current position
-
-**Juan de la Cierva Postdoctoral Research Fellow** (2023&ndash;current)  
+**Juan de la Cierva Postdoctoral Research Fellow**  
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain 🇪🇸
 
 ## Education
@@ -24,7 +22,7 @@ Thesis title: The End-Triassic mass extinction. An investigation of the British 
 **CMI (Level 5) in Management and Leadership** (2012&ndash;2015)  
 Leeds University Officer Training Corps, Leeds, UK
 
-### Employment
+## Employment
 
 **Juan de la Cierva Postdoctoral Research Fellow** (2023&ndash;current)  
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain
@@ -47,7 +45,7 @@ Republic Ltd, Grimsby and Hull, UK
 **Baker** (2008&ndash;2010)  
 Muffin Break, Grimsby, UK
 
-### Research focus
+## Research focus
 
 -   Macroecology and biodiversity
 -   Fossil record bias
@@ -55,9 +53,9 @@ Muffin Break, Grimsby, UK
 -   Palaeoclimate
 -   R programming
 
-### Publications
+## Publications
 
-#### **Peer-reviewed publications**
+### **Peer-reviewed publications**
 
 1.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). [Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies](https://doi.org/10.1111/2041-210X.14204). *Methods in Ecology and Evolution* (Early View).
 
@@ -75,13 +73,13 @@ Muffin Break, Grimsby, UK
 
 8.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). [Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction.](https://www.nature.com/articles/s41467-019-08997-2) *Nature Communications* 10 (1091), 1&ndash;14.
 
-#### **Theses**
+### **Theses**
 
 1.  **Lewis A. Jones** (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. *Supervisors: Dr Philip D. Mannion and Prof. Peter A. Allison*.
 
 2.  **Lewis A. Jones** (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master Thesis. *Supervisor: Dr David Bond*.
 
-#### **Other works**
+### **Other works**
 
 1.  **Lewis A. Jones** (2022). [Book review: Timefulness: How thinking like a geologist can help save the world](https://www.palass.org/sites/default/files/media/publications/newsletters/number_110/PAN110.pdf). *The Palaeontological Association Newsletter 110*.
 
@@ -89,7 +87,7 @@ Muffin Break, Grimsby, UK
 
 3.  **Lewis A. Jones** (2020). [Meeting report: 13th International Symposium of Fossil Cnidaria and Porifera](https://www.palass.org/sites/default/files/media/publications/newsletters/number_102/number_102.pdf). *The Palaeontological Association Newsletter 102*.
 
-### Academic awards and grants
+## Academic awards and grants
 
 **R for Palaeobiologists: Workshop and Hackathon** (2022)  
 Grant-in-Aid from The Palaeontological Association, UK  
@@ -110,7 +108,7 @@ Value: 70,000 GBP
 **Roger Ward thesis award** (2015)  
 University of Hull, Hull, UK
 
-### Invited presentations
+## Invited presentations
 
 ADD VIENNA
 
@@ -120,7 +118,7 @@ Talk: Into the palaeoverse: a community-driven R package
 **Getech PLC** (2018)  
 Talk: Ecological modelling in Geosciences
 
-### Selected conference presentations
+## Selected conference presentations
 
 ADD POLAND
 
@@ -152,7 +150,7 @@ Poster: Ecological niche modelling in deep time: constraining the transitional d
 **European Coral Reef Symposium** (2017)  
 Poster: Anthropogenic climate change and transitional distribution ranges of reef corals: insights from the last Pleistocene interglacial
 
-### Fieldwork experience
+## Fieldwork experience
 
 ADD EGYPT
 
@@ -168,7 +166,7 @@ Logging, sampling, and geochemical analysis across the Triassic/Jurassic boundar
 **Koh Rong, Cambodia** (2012)  
 Marine biological surveys as part of Koh Rong's (Cambodia) coral reef monitoring project
 
-### Professional development
+## Professional development
 
 **Macroevolution and Phylogenies** (2022)  
 Transmitting Science, Online
@@ -194,7 +192,7 @@ European Coral Reef Symposium, Oxford, UK
 **Introduction to larval dispersal modelling** (2017)  
 European Coral Reef Symposium, Oxford, UK
 
-### Student supervision
+## Student supervision
 
 **Miranta Kouvari** (2019&ndash;2023)  
 University College London, London, UK  
@@ -204,7 +202,7 @@ PhD project: The latitudinal biodiversity gradient of South American eutherians
 University of Vigo, Vigo, Spain  
 Master's project: Spatial discrepancies in palaeogeographic reconstructions
 
-### Teaching and pastoral care
+## Teaching and pastoral care
 
 **Graduate Teaching Assistant** (2016&ndash;2021)  
 Imperial College London, London, UK
@@ -217,7 +215,7 @@ Imperial College London, London, UK
 **Student Hall's Warden** (2016&ndash;2021)  
 Woodward Buildings, Imperial College London, London, UK
 
-### Professional service and outreach
+## Professional service and outreach
 
 ADD RPHYLOPIC
 
@@ -244,7 +242,7 @@ Co-organised and ran a workshop on ecological niche modelling
 Imperial College London, London, UK  
 Co-organised and ran the annual meeting of the Palaeontological Association
 
-### Peer-review experience
+## Peer-review experience
 
 ADD MEE
 ADD TREE
@@ -254,7 +252,7 @@ ADD TREE
 *Scientific Reports*  
 *Ecological Monographs*
 
-### Skills
+## Skills
 
 UPDATE
 
@@ -280,7 +278,7 @@ Active-bystander
 **Driving**  
 Full UK driving license
 
-### Memberships
+## Memberships
 
 UPDATE
 
