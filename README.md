@@ -4,12 +4,12 @@
 
 # Lewis A. Jones 👨🏻‍💻👨🏻‍🔬
 
-### Current position
+## Current position
 
 **Juan de la Cierva Postdoctoral Research Fellow** (2023&ndash;current)  
 Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain 🇪🇸
 
-### Education
+## Education
 
 **PhD in Earth Sciences** (2016&ndash;2020)  
 Imperial College London, London, UK  
