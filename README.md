@@ -57,25 +57,25 @@ Muffin Break, Grimsby, UK
 
 ### **Peer-reviewed publications**
 
-1.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). [Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies](https://doi.org/10.1111/2041-210X.14204). *Methods in Ecology and Evolution* (Early View).
+1.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). [Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies](https://doi.org/10.1111/2041-210X.14204). *Methods in Ecology and Evolution* (Early View). DOI:10.1111/2041-210X.14204.
 
-2.  William Gearty and **Lewis A. Jones** (2023). [rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes](https://doi.org/10.1111/2041-210X.14221). *Methods in Ecology and Evolution* 14 (11), 2700&ndash;2708.
+2.  William Gearty and **Lewis A. Jones** (2023). [rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes](https://doi.org/10.1111/2041-210X.14221). *Methods in Ecology and Evolution* 14 (11), 2700&ndash;2708. DOI:10.1111/2041-210X.14221.
 
-3.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). [palaeoverse: A community-driven R package to support palaeobiological analysis](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099). *Methods in Ecology and Evolution* 14 (9), 2205&ndash;2215.
+3.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). [palaeoverse: A community-driven R package to support palaeobiological analysis](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14099). *Methods in Ecology and Evolution* 14 (9), 2205&ndash;2215. DOI:10.1111/2041-210X.14099.
 
-4.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). [Climatic and tectonic drivers shaped the tropical distribution of coral reefs](https://www.nature.com/articles/s41467-022-30793-8). *Nature Communications* 13 (3120), 1&ndash;10.
+4.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). [Climatic and tectonic drivers shaped the tropical distribution of coral reefs](https://www.nature.com/articles/s41467-022-30793-8). *Nature Communications* 13 (3120), 1&ndash;10. DOI:10.1038/s41467-022-30793-8.
 
-5.  **Lewis A. Jones** and Kilian Eichenseer (2022). [Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) *Geology* 50 (2), 238&ndash;242.
+5.  **Lewis A. Jones** and Kilian Eichenseer (2022). [Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) *Geology* 50 (2), 238&ndash;242. DOI:10.1130/G49132.1.
 
-6.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021). [Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762) *Proceedings of the Royal Society B* 288 (1945), 20202762.
+6.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021). [Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762) *Proceedings of the Royal Society B* 288 (1945), 20202762. DOI:10.1098/rspb.2020.2762
 
-7.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). [Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change.](https://royalsocietypublishing.org/doi/10.1098/rsos.182111) *Royal Society Open Science* 6 (4), 182111.
+7.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). [Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change.](https://royalsocietypublishing.org/doi/10.1098/rsos.182111) *Royal Society Open Science* 6 (4), 182111. DOI:10.1098/rsos.182111.
 
-8.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). [Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction.](https://www.nature.com/articles/s41467-019-08997-2) *Nature Communications* 10 (1091), 1&ndash;14.
+8.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). [Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction.](https://www.nature.com/articles/s41467-019-08997-2) *Nature Communications* 10 (1091), 1&ndash;14. DOI:10.1038/s41467-019-08997-2.
 
 ### **Theses**
 
-1.  **Lewis A. Jones** (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. *Supervisors: Dr Philip D. Mannion and Prof. Peter A. Allison*.
+1.  **Lewis A. Jones** (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. *Supervisors: Dr Philip D. Mannion and Prof. Peter A. Allison*. DOI:10.25560/100239.
 
 2.  **Lewis A. Jones** (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master Thesis. *Supervisor: Dr David Bond*.
 
@@ -110,7 +110,7 @@ University of Hull, Hull, UK
 
 ## Invited presentations
 
-**Department of Palaeontology, University of Vienna, Austria** (2023)
+**Department of Palaeontology, University of Vienna, Austria** (2023)  
 Talk: Into the palaeoverse: a community-driven R package
 
 **PalaeoSIG (British Ecological Society): Masterclass in R** (2022)  
@@ -240,7 +240,7 @@ Co-organised and ran an early career researcher meeting on fossil corals and ree
 
 **Fossil Fact or Fiction stall** (2019)  
 Einstein's Garden, Green Man Festival, Brecon Beacons, Wales  
-Co-ran a stall on fossil record bias over the course of the festival, find out more [here!](https://www.palass.org/sites/default/files/media/publications/newsletters/number_103/number_103.pdf)
+Co-ran a stall on fossil record bias over the course of the festival  
 
 **Ecological niche modelling workshop** (2018)  
 Imperial College London, London, UK  
