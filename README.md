@@ -72,7 +72,7 @@ Muffin Break, Grimsby, UK
 
 ### **Theses**
 
-1.  **Lewis A. Jones** (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. *Supervisors: Dr Philip D. Mannion and Prof. Peter A. Allison*. DOI:10.25560/100239.
+1.  **Lewis A. Jones** (2020). On the detectability of latitudinal biodiversity gradients in deep time. PhD Thesis. Imperial College London. *Supervisors: Dr Philip D. Mannion and Prof. Peter A. Allison*. DOI:[10.25560/100239](https://spiral.imperial.ac.uk/handle/10044/1/100239).
 
 2.  **Lewis A. Jones** (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master Thesis. *Supervisor: Dr David Bond*.
 
@@ -88,11 +88,11 @@ Muffin Break, Grimsby, UK
 
 ## Published software
 
-1. **palaeoverse**: A community-driven R package to support palaeobiological analyses. Source code: [https://github.com/palaeoverse/palaeoverse](https://github.com/palaeoverse/palaeoverse)).
+1. **palaeoverse**: A community-driven R package to support palaeobiological analyses. Source code: [https://github.com/palaeoverse/palaeoverse](https://github.com/palaeoverse/palaeoverse).
 
 2. **rphylopic**: An R package for fetching, transforming, and visualising PhyloPic silhouettes. Source code: [https://github.com/palaeoverse/rphylopic](https://github.com/palaeoverse/rphylopic).
 
-3. **sepkoski**: A data R package of Sepkoski's Fossil Marine Animal Genera Compendium (Sepkoski, 2002). Source code: [https://github.com/LewisAJones/sepkoski/](https://github.com/LewisAJones/sepkoski/).
+3. **sepkoski**: A data R package of Sepkoski's Fossil Marine Animal Genera Compendium (Sepkoski, 2002). Source code: [https://github.com/LewisAJones/sepkoski/](https://github.com/LewisAJones/sepkoski).
 
 ## Academic awards and grants
 
@@ -162,7 +162,7 @@ Poster: Anthropogenic climate change and transitional distribution ranges of ree
 
 ## Fieldwork experience
 
-**El Qoseir, Egypt** (2023)
+**El Qoseir, Egypt** (2023)  
 Modern and fossil (Last Interglacial) coral reef data collection
 
 **León, Spain** (2022)  
@@ -248,7 +248,7 @@ Co-organised and ran an early career researcher meeting on fossil corals and ree
 
 **Fossil Fact or Fiction stall** (2019)  
 Einstein's Garden, Green Man Festival, Brecon Beacons, Wales  
-Co-ran a stall on fossil record bias over the course of the festival  
+Co-ran a stall on fossil record bias over the course of the festival
 
 **Ecological niche modelling workshop** (2018)  
 Imperial College London, London, UK  
