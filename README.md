@@ -113,7 +113,7 @@ Imperial College London, London, UK
 Value: 70,000 GBP
 
 **Roger Ward thesis award** (2015)  
-Awarded for best Master's thesis, University of Hull, Hull, UK
+Awarded for best Master's thesis, University of Hull, Hull, UK  
 Value: 50 GBP
 
 ## Invited presentations
