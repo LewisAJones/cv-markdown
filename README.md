@@ -295,6 +295,6 @@ Full UK driving license
 
 Member of the International Fossil Coral and Reef Society (2018&ndash;present)  
 Member of the Palaeontological Association (2017&ndash;present)  
-Member of the Paleontological Soceity (2023&ndash;present)  
+Member of the Paleontological Society (2023&ndash;present)  
 Member of the Conservation Paleobiology Network (2019&ndash;present)  
 Member of the British Ecological Society (2017&ndash;present)
