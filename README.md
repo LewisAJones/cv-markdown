@@ -52,7 +52,7 @@ Republic Ltd, Grimsby and Hull, UK
 **Baker** (2008&ndash;2010)  
 Muffin Break, Grimsby, UK
 
-## Research Visits
+## Research visits
 
 **University of Vienna, Vienna, Austria** (April&ndash;June, 2023)  
 Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab (PI: Prof. Martin Zuschin)
