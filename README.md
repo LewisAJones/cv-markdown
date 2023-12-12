@@ -54,7 +54,7 @@ Muffin Break, Grimsby, UK
 
 ## Research Visits
 
-**University of Vienna, Vienna, Austria** (April&ndash;June, 2023)
+**University of Vienna, Vienna, Austria** (April&ndash;June, 2023)  
 Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab (PI: Prof. Martin Zuschin)
 
 ## Publications
