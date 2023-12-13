@@ -95,19 +95,17 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ## Published software
 
-1. **palaeoverse**: A community-driven R package to support data preparation and exploration for palaeobiological analyses.
-   - The Comprehensive R Archive Network: [https://cran.r-project.org/web/packages/palaeoverse/](https://cran.r-project.org/web/packages/palaeoverse/)
-   - GitHub: [https://github.com/palaeoverse/palaeoverse](https://github.com/palaeoverse/palaeoverse)
+1. **palaeoverse**: A community-driven R package to support data preparation and exploration for palaeobiological analyses.  
+   The Comprehensive R Archive Network: [https://cran.r-project.org/web/packages/palaeoverse/](https://cran.r-project.org/web/packages/palaeoverse/)  
+   GitHub: [https://github.com/palaeoverse/palaeoverse](https://github.com/palaeoverse/palaeoverse)  
 
-2. **rphylopic**: An R package for fetching, transforming, and visualising PhyloPic silhouettes.
-   - The Comprehensive R Archive Network: [https://cran.r-project.org/web/packages/rphylopic/](https://cran.r-project.org/web/packages/rphylopic/)
-   - GitHub: [https://github.com/palaeoverse/rphylopic](https://github.com/palaeoverse/rphylopic)
+2. **rphylopic**: An R package for fetching, transforming, and visualising PhyloPic silhouettes.  
+   The Comprehensive R Archive Network: [https://cran.r-project.org/web/packages/rphylopic/](https://cran.r-project.org/web/packages/rphylopic/)  
+   GitHub: [https://github.com/palaeoverse/rphylopic](https://github.com/palaeoverse/rphylopic)  
 
-3. **sepkoski**: A data R package of Sepkoski's Fossil Marine Animal Genera Compendium (Sepkoski, 2002).
-   - The Comprehensive R Archive Network: [https://cran.r-project.org/web/packages/sepkoski/](https://cran.r-project.org/web/packages/sepkoski/)
-   - GitHub: [https://github.com/lewisajones/sepkoski](https://github.com/lewisajones/sepkoski)
-  
-<br>
+3. **sepkoski**: A data R package of Sepkoski's Fossil Marine Animal Genera Compendium (Sepkoski, 2002).  
+   The Comprehensive R Archive Network: [https://cran.r-project.org/web/packages/sepkoski/](https://cran.r-project.org/web/packages/sepkoski/)  
+   GitHub: [https://github.com/lewisajones/sepkoski](https://github.com/lewisajones/sepkoski)  
 
 ## Academic awards and grants
 
