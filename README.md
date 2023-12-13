@@ -1,10 +1,14 @@
 <span style="float:right;text-align:right;padding:6px"> 
-  <b>Juan de la Cierva Postdoctoral Research Fellow</b> <br> Mapas Lab, Centro de Investigación Mariña,<br> Universidade de Vigo, Vigo, Spain 🇪🇸
+  <b>Juan de la Cierva Postdoctoral Research Fellow</b> <br> Mapas Lab, Centro de Investigación Mariña,<br> Universidade de Vigo, Vigo, Spain
 </span>
 
-# Dr Lewis A. Jones 👨🏻‍💻👨🏻‍🔬
+# Dr Lewis A. Jones
+
+ <div align="center">
 
 **Email:** [LewisA.Jones@outlook.com](mailto:LewisA.Jones@outlook.com) | **Website:** [www.LewisAJones.com](www.lewisajones.com) | **ORCID:** [0000-0003-3902-8986](https://orcid.org/0000-0003-3902-8986) | **GitHub:** [LewisAJones](https://github.com/LewisAJones)
+
+</div>
 
  <div align="justify">
 
