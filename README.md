@@ -107,6 +107,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
    - The Comprehensive R Archive Network: [https://cran.r-project.org/web/packages/sepkoski/](https://cran.r-project.org/web/packages/sepkoski/)
    - GitHub: [https://github.com/lewisajones/sepkoski](https://github.com/lewisajones/sepkoski)
 
+
 ## Academic awards and grants
 
 **R for Palaeobiologists: Workshop and Hackathon** (2022)  
