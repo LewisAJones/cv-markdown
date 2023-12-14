@@ -19,7 +19,7 @@ Palaeobiologist examining the macroecological and macroevolutionary history of r
 **PhD in Palaeobiology** (2016&ndash;2020)  
 Imperial College London, London, UK  
 Research advisors: Prof. Philip D. Mannion & Prof. Peter A. Allison  
-Thesis title: On the detectability of the latitudinal biodiversity gradient in deep time
+Thesis title: On the detectability of latitudinal biodiversity gradients in deep time
 
 **MPhysGeog in Physical Geography** (2011&ndash;2015)  
 University of Hull, Hull, UK  
@@ -108,7 +108,7 @@ Grant-in-Aid from The Palaeontological Association, UK
 Value: 2000 GBP
 
 **Juan de la Cierva Fellowship** (2022)  
-Agencia Estatal de Investigación, Spain
+Agencia Estatal de Investigación, Spain  
 Value: 64,800 EUR
 
 **Doctoral Summer School for Advanced Spatial Modelling - Hackathon award** (2019)  
@@ -128,6 +128,10 @@ Awarded for best Master's thesis, University of Hull, Hull, UK
 Value: 50 GBP
 
 ## Invited presentations
+
+**Methods in Ecology and Evolution: Live!** (2023)  
+British Ecological Society, Online workshop  
+Oral: Introduction to rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes
 
 **Department of Palaeontology, University of Vienna, Austria** (2023)  
 Oral: Into the palaeoverse: a community-driven R package
@@ -230,11 +234,11 @@ European Coral Reef Symposium, Oxford, UK
 
 **Miranta Kouvari** (2019&ndash;2023)  
 University College London, London, UK  
-PhD project: The latitudinal biodiversity gradient of South American eutherians
+Masters project: The latitudinal biodiversity gradient of South American eutherians
 
 **Lucas Buffan** (2021&ndash;2022)  
 University of Vigo, Vigo, Spain  
-Master's project: Spatial discrepancies in palaeogeographic reconstructions
+Masters project: Spatial discrepancies in palaeogeographic reconstructions
 
 ## Teaching and pastoral care
 
@@ -253,10 +257,6 @@ Woodward Buildings, Imperial College London, London, UK
 
 **IFCRS Internet Officer** (2023&ndash;current)  
 Committee member of the International Fossil Coral and Reef Society (IFCRS)
-
-**Methods in Ecology and Evolution: Live!** (2023)  
-British Ecological Society, Online workshop  
-Introduction to rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes
 
 **IFCRS Early Career Researcher Representative** (2021&ndash;2023)  
 Committee member of the International Fossil Coral and Reef Society (IFCRS)
@@ -309,10 +309,11 @@ BSAC-accredited Ocean and Sports Diver
 Emergency first-aid at work & automated external defibrillator  
 Outdoors emergency first-aid  
 Mental health first-aid  
+Fire safety and warden  
 Active-bystander
 
 **Driving**  
-Full UK driving license
+Full EU driving license
 
 ## Memberships
 
@@ -322,7 +323,6 @@ Member of the Paleontological Society (2023&ndash;present)
 Member of the Conservation Paleobiology Network (2019&ndash;present)  
 Member of the British Ecological Society (2017&ndash;present)
 
-<br>
 <br>
 
 **Referee details available upon request.**
