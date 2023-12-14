@@ -234,11 +234,11 @@ European Coral Reef Symposium, Oxford, UK
 
 **Miranta Kouvari** (2019&ndash;2023)  
 University College London, London, UK  
-Masters project: The latitudinal biodiversity gradient of South American eutherians
+Master's project: The latitudinal biodiversity gradient of South American eutherians
 
 **Lucas Buffan** (2021&ndash;2022)  
 University of Vigo, Vigo, Spain  
-Masters project: Spatial discrepancies in palaeogeographic reconstructions
+Master's project: Spatial discrepancies in palaeogeographic reconstructions
 
 ## Teaching and pastoral care
 
