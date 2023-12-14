@@ -202,7 +202,7 @@ Transmitting Science, Online
 **Introduction to GEN3SIS** (2022)  
 Universidade de Vigo, Vigo, Spain
 
-**Towards more equitable marine research** (2021)
+**Towards more equitable marine research** (2021)  
 Centro de Investigación Mariña (led by Transmitting Science), Universidade de Vigo, Spain
 
 **Data manipulation and Statistical Analysis in Palaeoecology** (2021)  
