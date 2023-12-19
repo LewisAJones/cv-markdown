@@ -103,6 +103,10 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ## Academic awards and grants
 
+**MURKY: Mesophotic and turbid reefs as key ecosystems for the future?** (2023)  
+Research workshop grant from the Paleosynthesis project, Friedrich-Alexander-Universität, Germany  
+Value: 10,000 EUR
+
 **R for Palaeobiologists: Workshop and Hackathon** (2022)  
 Grant-in-Aid from The Palaeontological Association, UK  
 Value: 2000 GBP
