@@ -255,6 +255,9 @@ Woodward Buildings, Imperial College London, London, UK
 
 ## Professional service and outreach
 
+**14<sup>th</sup> International Fossil Coral and Reef Society symposium** (Chęciny, Poland, 2023)  
+Session chair: Fossil coral reefs: research methods
+
 **IFCRS Internet Officer** (2023&ndash;current)  
 Committee member of the International Fossil Coral and Reef Society (IFCRS)
 
