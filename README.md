@@ -117,7 +117,7 @@ Role: applicant, value: 2000 GBP
 
 **Juan de la Cierva Fellowship** (2022)  
 Agencia Estatal de Investigación, Spain  
-Role: applicant, Value: 64,800 EUR
+Role: applicant, value: 64,800 EUR
 
 **Doctoral Summer School for Advanced Spatial Modelling - Hackathon award** (2019)  
 Awarded for best hackathon project, Centre for Advanced Spatial Analysis, University College London, London  
