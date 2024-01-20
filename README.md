@@ -300,6 +300,7 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 *Science Advances*  
 *Scientific Reports*  
 *Trends in Ecology and Evolution*
+*Journal of Biogeography*
 
 ## Skills
 
