@@ -299,7 +299,7 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 *Nature Communications*  
 *Science Advances*  
 *Scientific Reports*  
-*Trends in Ecology and Evolution*
+*Trends in Ecology and Evolution*  
 *Journal of Biogeography*
 
 ## Skills
