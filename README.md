@@ -105,6 +105,10 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ## Academic awards and grants
 
+**rmacrostrat development workshop***
+Scientific Exchange grant from the Swiss National Science Fund, Switzerland  
+Role: co-applicant, value: 5800 CHF
+
 **MURKY: Mesophotic and turbid reefs as key ecosystems for the future?** (2023)  
 Research workshop grant from the Paleosynthesis project, Friedrich-Alexander-Universität, Germany  
 Role: co-applicant, value: 10,000 EUR
