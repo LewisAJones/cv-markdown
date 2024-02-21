@@ -105,7 +105,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ## Academic awards and grants
 
-**rmacrostrat development workshop**  
+**rmacrostrat R package development workshop** (2024)  
 Scientific Exchange grant from the Swiss National Science Fund, Switzerland  
 Role: co-applicant, value: 5800 CHF
 
