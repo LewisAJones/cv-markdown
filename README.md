@@ -107,6 +107,10 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ## Academic awards and grants
 
+**Reconstructing the diversity dynamics and drivers of Cenozoic marine biodiversity hotspots** (2024)  
+Norman Newell grant from the Paleontological Society, USA  
+Role: applicant, value: 5000 USD
+
 **rmacrostrat R package development workshop** (2024)  
 Scientific Exchange grant from the Swiss National Science Fund, Switzerland  
 Role: co-applicant, value: 5800 CHF
