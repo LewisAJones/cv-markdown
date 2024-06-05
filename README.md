@@ -315,7 +315,8 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 
 ## Peer-review experience
 
-*Ecological Monographs*  
+*Ecological Monographs* 
+*Global Ecology and Biogeography*  
 *Methods in Ecology and Evolution*  
 *Nature Communications*  
 *Science Advances*  
