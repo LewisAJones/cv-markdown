@@ -61,7 +61,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ### **Peer-reviewed publications**
 
-1. **Lewis A. Jones** and Mathew Domeier (2024). A Phanerozoic gridded dataset for palaeogeographic reconstructions. *Scientific Data* 11 (710), 1&ndash;7. DOI: [https://doi.org/10.1038/s41597-024-03468-w](https://doi.org/10.1038/s41597-024-03468-w).
+1. **Lewis A. Jones** and Mathew Domeier (2024). A Phanerozoic gridded dataset for palaeogeographic reconstructions. *Scientific Data* 11 (710), 1&ndash;7. DOI: [10.1038/s41597-024-03468-w](https://doi.org/10.1038/s41597-024-03468-w).
 
 2.	Alfio A. Chiarenza, Juan L. Cantalapiedra, **Lewis A. Jones**, Sara Gamboa, Sofía Galván, Alexander Farnsworth, Paul J. Valdes, Graciela Sotelo, and Sara Varela (2024). Early Jurassic origin of avian endothermy and thermophysiological diversity in dinosaurs. *Current Biology* 34, 1&ndash;11. DOI: [10.1016/j.cub.2024.04.051](https://doi.org/10.1016/j.cub.2024.04.051).
 
