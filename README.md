@@ -109,6 +109,10 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ## Academic awards and grants
 
+**Addressing the origins of marine invertebrate diversity in computer simulations (INDICiOS)** (2024)  
+Proyectos de Generación de Conocimiento (Knowledge Generation Projects), Spain  
+Role: co-applicant, value: 345,000 EUR
+
 **Elucidating diversity dynamics in marine tropical hotspots** (2024)  
 Natural Environment Research Council Independent Research Fellowship, UK  
 Role: applicant, value: 874,978 GBP
