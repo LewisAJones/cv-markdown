@@ -292,7 +292,7 @@ Organised and ran a workshop on using R in Palaeobiology
 **Lab Assistant** (2024)  
 Universidade de Vigo, Vigo, Spain  
 
--  Computer Tools in Biology
+-  Computational Tools in Biology
 
 **R for Palaeobiologists: Workshop and Hackathon** (2023)  
 University College London, UK  
