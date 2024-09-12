@@ -35,10 +35,10 @@ Leeds University Officer Training Corps, Leeds, UK
 Department of Earth Sciences, University College London, London, UK
 
 **Juan de la Cierva Postdoctoral Research Fellow** (2023&ndash;2024)  
-Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain
+Mapas Lab, Centro de Investigaci&oacute;n Mari&ntilde;a, Universidade de Vigo, Vigo, Spain
 
 **European Research Council Postdoctoral Research Assistant** (2021&ndash;2022)  
-Mapas Lab, Centro de Investigación Mariña, Universidade de Vigo, Vigo, Spain
+Mapas Lab, Centro de Investigaci&oacute;n Mari&ntilde;a, Universidade de Vigo, Vigo, Spain
 
 **Graduate Teaching Assistant** (2016&ndash;2021)  
 Department of Earth Science and Engineering, Imperial College London, London, UK
@@ -115,7 +115,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 ## Academic awards and grants
 
 **Addressing the origins of marine invertebrate diversity in computer simulations (INDICiOS)** (2024)  
-Proyectos de Generación de Conocimiento (Knowledge Generation Projects), Spain  
+Proyectos de Generaci&oacute;n de Conocimiento (Knowledge Generation Projects), Spain  
 Role: co-applicant, value: 345,000 EUR
 
 **Elucidating diversity dynamics in marine tropical hotspots** (2024)  
@@ -131,7 +131,7 @@ Scientific Exchange grant from the Swiss National Science Fund, Switzerland
 Role: co-applicant, value: 5800 CHF
 
 **MURKY: Mesophotic and turbid reefs as key ecosystems for the future?** (2023)  
-Research workshop grant from the Paleosynthesis project, Friedrich-Alexander-Universität, Germany  
+Research workshop grant from the Paleosynthesis project, Friedrich-Alexander-Universit&auml;t, Germany  
 Role: co-applicant, value: 10,000 EUR
 
 **R for Palaeobiologists: Workshop and Hackathon** (2023)  
@@ -143,7 +143,7 @@ Grant-in-Aid from The Palaeontological Association, UK
 Role: applicant, value: 2000 GBP
 
 **Juan de la Cierva Fellowship** (2022)  
-Agencia Estatal de Investigación, Spain  
+Agencia Estatal de Investigaci&oacute;n, Spain  
 Role: applicant, value: 64,800 EUR
 
 **Doctoral Summer School for Advanced Spatial Modelling - Hackathon award** (2019)  
@@ -165,7 +165,7 @@ Value: 50 GBP
 ## Invited presentations
 
 **Computational Palaeobiology Mini-Symposium** (2024)  
-Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland  
+Department of Biosystems Science and Engineering, ETH Z&uuml;rich, Basel, Switzerland  
 Oral: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies
 
 **Methods in Ecology and Evolution: Live!** (2023)  
@@ -188,13 +188,13 @@ Oral: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobi
 Poster: palaeoverse: A community-driven R package to support palaeobiological analyses  
 Poster: rmacrostrat: An R package for retrieving data from the Macrostrat geological database
 
-**14<sup>th</sup> International Fossil Coral and Reef Society symposium** (Chęciny, Poland, 2023)  
+**14<sup>th</sup> International Fossil Coral and Reef Society symposium** (Ch&#281;ciny, Poland, 2023)  
 Oral: Inverse latitudinal diversity gradients in Last Interglacial coral reef communities
 
 **The Palaeontological Association: Annual Meeting** (Cork, Ireland, 2022)  
 Poster: Niche characterisation is biased by limited and heterogeneous spatial sampling
 
-**Simposio de Paleontologia del noroeste peninsular** (A Coruña, Spain, 2022)  
+**Simposio de Paleontologia del noroeste peninsular** (A Coru&ntilde;a, Spain, 2022)  
 Poster: palaeoverse: a community-driven R package
 
 **The Palaeontological Association: Annual Meeting** (Valencia, Spain, 2019)  
@@ -230,7 +230,7 @@ Poster: PalaeoENM: Ecological Controls on Triassic/Jurassic Coral Reefs
 **El Qoseir, Egypt** (2023)  
 Modern and fossil (Last Interglacial) coral reef data collection via line-intercept transects
 
-**León, Spain** (2022)  
+**Le&oacute;n, Spain** (2022)  
 Logging and bulk sampling of Devonian sequences
 
 **Colorado and New Mexico, USA** (2016)  
@@ -251,7 +251,7 @@ Transmitting Science, Online
 Universidade de Vigo, Vigo, Spain
 
 **Towards more equitable marine research** (2021)  
-Centro de Investigación Mariña (led by Transmitting Science), Universidade de Vigo, Spain
+Centro de Investigaci&oacute;n Mari&ntilde;a (led by Transmitting Science), Universidade de Vigo, Spain
 
 **Data manipulation and Statistical Analysis in Palaeoecology** (2021)  
 Palaeoecology Group, British Ecological Society, Online
@@ -319,10 +319,10 @@ Woodward Buildings, Imperial College London, London, UK
 **Recent Advances in Computational Paleobiology symposium** (Ann Arbor, Michigan, USA, 2024)  
 Co-organised and ran a symposium at the 12<sup>th</sup> North American Paleontological Convention
 
-**Palaeoverse Lecture Series** (2024–Current)  
+**Palaeoverse Lecture Series** (2024&ndash;Current)  
 Monthly lecture series on recent advances in computational tools and methods in palaeobiology [https://www.youtube.com/@ThePalaeoverse/](https://www.youtube.com/@ThePalaeoverse/)
 
-**14<sup>th</sup> International Fossil Coral and Reef Society symposium** (Chęciny, Poland, 2023)  
+**14<sup>th</sup> International Fossil Coral and Reef Society symposium** (Ch&#281;ciny, Poland, 2023)  
 Session chair: Fossil coral reefs: research methods
 
 **IFCRS Internet Officer** (2023&ndash;current)  
