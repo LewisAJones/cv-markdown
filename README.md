@@ -118,7 +118,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 4. **rmacrostrat:** An R package to fetch geologic data from the Macrostrat database.  
    - CRAN: [https://cran.r-project.org/web/packages/rmacrostrat/](https://cran.r-project.org/web/packages/rmacrostrat/).  
-   - GitHub: [https://github.com/palaeoverse/rmacrostrat](https://github.com/palaeoverse/rmacrostrat).
+   - GitHub: [https://github.com/palaeoverse/rmacrostrat](https://github.com/palaeoverse/rmacrostrat).  
 
 ## Academic awards and grants
 
