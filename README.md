@@ -105,20 +105,20 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 ## Published software
 
 1. **palaeoverse**: A community-driven R package to support data preparation and exploration for palaeobiological analyses.  
-   CRAN: [https://cran.r-project.org/web/packages/palaeoverse/](https://cran.r-project.org/web/packages/palaeoverse/).  
-   GitHub: [https://github.com/palaeoverse/palaeoverse](https://github.com/palaeoverse/palaeoverse).  
+   - CRAN: [https://cran.r-project.org/web/packages/palaeoverse/](https://cran.r-project.org/web/packages/palaeoverse/).  
+   - GitHub: [https://github.com/palaeoverse/palaeoverse](https://github.com/palaeoverse/palaeoverse).  
 
 2. **rphylopic**: An R package for fetching, transforming, and visualising PhyloPic silhouettes.  
-   CRAN: [https://cran.r-project.org/web/packages/rphylopic/](https://cran.r-project.org/web/packages/rphylopic/).  
-   GitHub: [https://github.com/palaeoverse/rphylopic](https://github.com/palaeoverse/rphylopic).  
+   - CRAN: [https://cran.r-project.org/web/packages/rphylopic/](https://cran.r-project.org/web/packages/rphylopic/).  
+   - GitHub: [https://github.com/palaeoverse/rphylopic](https://github.com/palaeoverse/rphylopic).  
 
 3. **sepkoski**: A data R package of Sepkoski's Fossil Marine Animal Genera Compendium (Sepkoski, 2002).  
-   CRAN: [https://cran.r-project.org/web/packages/sepkoski/](https://cran.r-project.org/web/packages/sepkoski/).  
-   GitHub: [https://github.com/lewisajones/sepkoski](https://github.com/lewisajones/sepkoski).  
+   - CRAN: [https://cran.r-project.org/web/packages/sepkoski/](https://cran.r-project.org/web/packages/sepkoski/).  
+   - GitHub: [https://github.com/lewisajones/sepkoski](https://github.com/lewisajones/sepkoski).  
 
 4. **rmacrostrat:** An R package to fetch geologic data from the Macrostrat database.  
-   CRAN: [https://cran.r-project.org/web/packages/rmacrostrat/](https://cran.r-project.org/web/packages/rmacrostrat/).  
-   GitHub: [https://github.com/palaeoverse/rmacrostrat](https://github.com/palaeoverse/rmacrostrat).
+   - CRAN: [https://cran.r-project.org/web/packages/rmacrostrat/](https://cran.r-project.org/web/packages/rmacrostrat/).  
+   - GitHub: [https://github.com/palaeoverse/rmacrostrat](https://github.com/palaeoverse/rmacrostrat).
 
 ## Academic awards and grants
 
