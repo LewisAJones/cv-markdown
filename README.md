@@ -94,7 +94,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ### **Other works**
 
-1.  **Lewis A. Jones** (2023). [Palaeontology’s greatest ever graphs: The absence of evidence: spatial sampling bias in the fossil record](https://www.palass.org/publications/newsletter/archive/114/newsletter-no-114). *The Palaeontological Association Newsletter* 114.
+1.  **Lewis A. Jones** (2023). [Palaeontology's greatest ever graphs: The absence of evidence: spatial sampling bias in the fossil record](https://www.palass.org/publications/newsletter/archive/114/newsletter-no-114). *The Palaeontological Association Newsletter* 114.
 
 2.  **Lewis A. Jones** (2022). [Book review: Timefulness: How thinking like a geologist can help save the world](https://www.palass.org/publications/newsletter/archive/110/newsletter-no-110). *The Palaeontological Association Newsletter* 110.
 
@@ -309,7 +309,7 @@ Imperial College London, London, UK
 -   Palaeobiology I
 -   Palaeobiology II
 -   Dorset (UK) geology field course
--   Almería (Spain) geology field course
+-   Almer&iacute;a (Spain) geology field course
 
 **Student Hall's Warden** (2016&ndash;2021)  
 Woodward Buildings, Imperial College London, London, UK
