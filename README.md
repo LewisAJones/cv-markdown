@@ -356,6 +356,7 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 *Ecological Monographs* 
 *Global Ecology and Biogeography*  
 *Journal of Biogeography*  
+*Palaeontology*  
 *Methods in Ecology and Evolution*  
 *Nature Communications*  
 *Science Advances*  
