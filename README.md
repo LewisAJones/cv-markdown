@@ -166,6 +166,9 @@ Value: 50 GBP
 
 ## Invited presentations
 
+**Centre for Biodiversity and Environment Research, University College London, London, UK** (2024)  
+Oral: Mind the Gap: Reconstructing marine biodiversity through time and space
+
 **Computational Palaeobiology Mini-Symposium** (2024)  
 Department of Biosystems Science and Engineering, ETH Z&uuml;rich, Basel, Switzerland  
 Oral: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies
