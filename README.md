@@ -64,7 +64,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ### **Peer-reviewed publications**
 
-1. **Lewis A. Jones**, Christopher D. Dean, William Gearty, and Bethany J. Allen (2024). rmacrostrat : An R package for accessing and retrieving data from the Macrostrat geological database. *Geosphere*, DOI: [10.1130/GES02815.1](https://doi.org/10.1130/GES02815.1).
+1. **Lewis A. Jones**, Christopher D. Dean, William Gearty, and Bethany J. Allen (2024). rmacrostrat: An R package for accessing and retrieving data from the Macrostrat geological database. *Geosphere*, DOI: [10.1130/GES02815.1](https://doi.org/10.1130/GES02815.1).
 
 2. **Lewis A. Jones** and Mathew Domeier (2024). A Phanerozoic gridded dataset for palaeogeographic reconstructions. *Scientific Data* 11 (710), 1&ndash;7. DOI: [10.1038/s41597-024-03468-w](https://doi.org/10.1038/s41597-024-03468-w).
 
