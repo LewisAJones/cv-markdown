@@ -295,6 +295,12 @@ Master's project: Spatial discrepancies in palaeogeographic reconstructions
 
 ## Teaching and pastoral care
 
+**Tutor** (2024–Current)  
+Department of Earth Sciences, University College London, UK  
+
+- Advanced Biodiversity and Macroevolutionary Studies (GEOL0036)
+- The Earth - Meet Your Researcher (GEOL0007)
+
 **R for Paleobiologists: Getting Started with the palaeoverse R Package** (2024)  
 12<sup>th</sup> North American Paleontological Convention, Ann Arbor, Michigan, USA 
 Organised and ran a workshop on using R in Palaeobiology
@@ -320,6 +326,9 @@ Imperial College London, London, UK
 Woodward Buildings, Imperial College London, London, UK
 
 ## Professional service and outreach
+
+**68<sup>th</sup> Annual Meeting of the Palaeontological Association** (Erlangen, Germany, 2024)  
+Session chair: Climate Change
 
 **Recent Advances in Computational Paleobiology symposium** (Ann Arbor, Michigan, USA, 2024)  
 Co-organised and ran a symposium at the 12<sup>th</sup> North American Paleontological Convention
