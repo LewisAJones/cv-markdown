@@ -167,34 +167,37 @@ Value: 50 GBP
 ## Invited presentations
 
 **Centre for Biodiversity and Environment Research, University College London, London, UK** (2024)  
-Oral: Mind the Gap: Reconstructing marine biodiversity through time and space
+Talk: Mind the Gap: Reconstructing marine biodiversity through time and space
 
 **Computational Palaeobiology Mini-Symposium** (2024)  
 Department of Biosystems Science and Engineering, ETH Z&uuml;rich, Basel, Switzerland  
-Oral: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies
+Talk: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies
 
 **Methods in Ecology and Evolution: Live!** (2023)  
 British Ecological Society, Online workshop  
-Oral: Introduction to rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes
+Talk: Introduction to rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes
 
 **Department of Palaeontology, University of Vienna, Austria** (2023)  
-Oral: Into the palaeoverse: a community-driven R package
+Talk: Into the palaeoverse: a community-driven R package
 
 **PalaeoSIG (British Ecological Society): Masterclass in R** (2022)  
-Oral: Into the palaeoverse: a community-driven R package
+Talk: Into the palaeoverse: a community-driven R package
 
 **Getech PLC** (2018)  
-Oral: Ecological modelling in Geosciences
+Talk: Ecological modelling in Geosciences
 
 ## Selected conference presentations
 
+**68<sup>th</sup> Annual Meeting of the Palaeontological Association** (Erlangen, Germany, 2024)  
+Poster: rmacrostrat: An R package for retrieving data from the Macrostrat geological database
+
 **12<sup>th</sup> North American Paleontological Convention** (Ann Arbor, Michigan, USA, 2024)  
-Oral: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies  
+Talk: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies  
 Poster: palaeoverse: A community-driven R package to support palaeobiological analyses  
 Poster: rmacrostrat: An R package for retrieving data from the Macrostrat geological database
 
 **14<sup>th</sup> International Fossil Coral and Reef Society symposium** (Ch&#281;ciny, Poland, 2023)  
-Oral: Inverse latitudinal diversity gradients in Last Interglacial coral reef communities
+Talk: Inverse latitudinal diversity gradients in Last Interglacial coral reef communities
 
 **The Palaeontological Association: Annual Meeting** (Cork, Ireland, 2022)  
 Poster: Niche characterisation is biased by limited and heterogeneous spatial sampling
@@ -203,23 +206,23 @@ Poster: Niche characterisation is biased by limited and heterogeneous spatial sa
 Poster: palaeoverse: a community-driven R package
 
 **The Palaeontological Association: Annual Meeting** (Valencia, Spain, 2019)  
-Oral: Poor spatial sampling coverage obscures our understanding of the latitudinal biodiversity gradient in deep time  
+Talk: Poor spatial sampling coverage obscures our understanding of the latitudinal biodiversity gradient in deep time  
 Poster: Uneven spatial sampling in Phanerozoic palaeoclimate curves
 
 **13<sup>th</sup> International Symposium on Fossil Cnidaria and Porifera** (Modena, Italy, 2019)  
-Oral: The evolution of the latitudinal biodiversity gradient in zooxanthellate corals
+Talk: The evolution of the latitudinal biodiversity gradient in zooxanthellate corals
 
 **The past is a foreign country: how much can the fossil record actually inform conservation?** (London, UK, 2019)  
 Poster: Looking through the palaeontological window: reducing geographical and environmental bias in forecasting biodiversity responses
 
 **Crossing the Palaeontological&ndash;Ecological Gap** (Leeds, UK, 2018)  
-Oral: Absence of evidence is not evidence of absence: quantifying reef coral range shifts under global climatic change
+Talk: Absence of evidence is not evidence of absence: quantifying reef coral range shifts under global climatic change
 
 **British Ecological Society - Macroecology** (St. Andrews, UK, 2018)  
-Oral: Anthropogenic climate change and transitional distribution ranges of reef corals: insights from the last Pleistocene interglacial
+Talk: Anthropogenic climate change and transitional distribution ranges of reef corals: insights from the last Pleistocene interglacial
 
 **The Palaeontological Association: Progressive Palaeontology** (Manchester, UK, 2018)  
-Oral: Coupling palaeontological and neontological data: transitional distribution ranges of reef corals under global climatic change
+Talk: Coupling palaeontological and neontological data: transitional distribution ranges of reef corals under global climatic change
 
 **The Palaeontological Association: Annual Meeting** (London, UK, 2017)  
 Poster: Ecological niche modelling in deep time: constraining the transitional distribution ranges of reef corals
@@ -337,7 +340,7 @@ Co-organised and ran a symposium at the 12<sup>th</sup> North American Paleontol
 Monthly lecture series on recent advances in computational tools and methods in palaeobiology [https://www.youtube.com/@ThePalaeoverse/](https://www.youtube.com/@ThePalaeoverse/)
 
 **14<sup>th</sup> International Fossil Coral and Reef Society symposium** (Ch&#281;ciny, Poland, 2023)  
-Session chair: Fossil coral reefs: research methods
+Session chair: Research Methods
 
 **IFCRS Internet Officer** (2023&ndash;current)  
 Committee member of the International Fossil Coral and Reef Society (IFCRS)
