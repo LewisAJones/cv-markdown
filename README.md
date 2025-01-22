@@ -346,6 +346,9 @@ Woodward Buildings, Imperial College London, London, UK
 
 ## Professional service and outreach
 
+**Handling Editor for *Open Palaeontology*** (2024&ndash;Current)  
+*Open Palaeontology* is a new international Diamond Open Access journal promoting open science in the field of palaeontology  
+
 **68<sup>th</sup> Annual Meeting of the Palaeontological Association** (Erlangen, Germany, 2024)  
 Session chair: Climate Change
 
