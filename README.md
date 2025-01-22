@@ -252,6 +252,12 @@ Marine biological surveys as part of Koh Rong's (Cambodia) coral reef monitoring
 
 ## Professional development
 
+**Fair and Inclusive Recruitment** (2024)  
+University College London, London, UK
+
+**Introduction to Research Supervision** (2024)  
+University College London, London, UK
+
 **Macroevolution and Phylogenies** (2022)  
 Transmitting Science, Online
 
@@ -283,6 +289,10 @@ European Coral Reef Symposium, Oxford, UK
 European Coral Reef Symposium, Oxford, UK
 
 ## Student supervision
+
+**Xiaoli Ma** (2024&ndash;2025)  
+Nanjing University, China  
+PhD project: Palaeogeographic reconstructions shape understanding of deep-time climate change
 
 **Die (Wendy) Wen** (2024&ndash;2025)  
 University College London, UK  
