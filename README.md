@@ -64,7 +64,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ### **Peer-reviewed publications**
 
-1. Theres Koch, Angelina Ivki&cacute;, **Lewis A. Jones**, Victor S. Scharnhorst, Constanze M. Stix, Antonia Auer, Theda Sch&ouml;chtner, G&ouml;zde &Ouml;zer, Simon Steinwender, Joseph W. Daurella, and Martin Zuschin. Quantifying diversity and growth form distribution of scleractinian corals, in Mangrove Bay, El Qoseir, Egypt. *Biodiversity Data Journal* 13, e134282. DOI: [10.3897/BDJ.13.e134282](https://doi.org/10.3897/BDJ.13.e134282).
+1. Theres Koch, Angelina Ivki&cacute;, **Lewis A. Jones**, Victor S. Scharnhorst, Constanze M. Stix, Antonia Auer, Theda Sch&ouml;chtner, G&ouml;zde &Ouml;zer, Simon Steinwender, Joseph W. Daurella, and Martin Zuschin (2025). Quantifying diversity and growth form distribution of scleractinian corals, in Mangrove Bay, El Qoseir, Egypt. *Biodiversity Data Journal* 13, e134282. DOI: [10.3897/BDJ.13.e134282](https://doi.org/10.3897/BDJ.13.e134282).
 
 2. **Lewis A. Jones**, Christopher D. Dean, William Gearty, and Bethany J. Allen (2024). rmacrostrat: An R package for accessing and retrieving data from the Macrostrat geological database. *Geosphere* 20(6), 1456&ndash;1467. DOI: [10.1130/GES02815.1](https://doi.org/10.1130/GES02815.1).
 
