@@ -64,29 +64,31 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ### **Peer-reviewed publications**
 
-1. **Lewis A. Jones**, Christopher D. Dean, William Gearty, and Bethany J. Allen (2024). rmacrostrat: An R package for accessing and retrieving data from the Macrostrat geological database. *Geosphere*, DOI: [10.1130/GES02815.1](https://doi.org/10.1130/GES02815.1).
+1. Theres Koch, Angelina Ivki&cacute;, **Lewis A. Jones**, Victor S. Scharnhorst, Constanze M. Stix, Antonia Auer, Theda Sch&ouml;chtner, G&ouml;zde &Ouml;zer, Simon Steinwender, Joseph W. Daurella, and Martin Zuschin. Quantifying diversity and growth form distribution of scleractinian corals, in Mangrove Bay, El Qoseir, Egypt. *Biodiversity Data Journal* 13, e134282. DOI: [10.3897/BDJ.13.e134282](https://doi.org/10.3897/BDJ.13.e134282).
 
-2. **Lewis A. Jones** and Mathew Domeier (2024). A Phanerozoic gridded dataset for palaeogeographic reconstructions. *Scientific Data* 11 (710), 1&ndash;7. DOI: [10.1038/s41597-024-03468-w](https://doi.org/10.1038/s41597-024-03468-w).
+2. **Lewis A. Jones**, Christopher D. Dean, William Gearty, and Bethany J. Allen (2024). rmacrostrat: An R package for accessing and retrieving data from the Macrostrat geological database. *Geosphere* 20(6), 1456&ndash;1467. DOI: [10.1130/GES02815.1](https://doi.org/10.1130/GES02815.1).
 
-3.	Alfio A. Chiarenza, Juan L. Cantalapiedra, **Lewis A. Jones**, Sara Gamboa, Sof&iacute;a Galv&aacute;n, Alexander Farnsworth, Paul J. Valdes, Graciela Sotelo, and Sara Varela (2024). Early Jurassic origin of avian endothermy and thermophysiological diversity in dinosaurs. *Current Biology* 34, 1&ndash;11. DOI: [10.1016/j.cub.2024.04.051](https://doi.org/10.1016/j.cub.2024.04.051).
+3. **Lewis A. Jones** and Mathew Domeier (2024). A Phanerozoic gridded dataset for palaeogeographic reconstructions. *Scientific Data* 11 (710), 1&ndash;7. DOI: [10.1038/s41597-024-03468-w](https://doi.org/10.1038/s41597-024-03468-w).
 
-4.	Kilian Eichenseer and **Lewis A. Jones** (2024). Bayesian multi-proxy reconstruction of early Eocene latitudinal temperature gradients. *Climate of the Past* 20, 349&ndash;362. DOI: [10.5194/cp-20-349-2024](https://doi.org/10.5194/cp-20-349-2024).
+4.	Alfio A. Chiarenza, Juan L. Cantalapiedra, **Lewis A. Jones**, Sara Gamboa, Sof&iacute;a Galv&aacute;n, Alexander Farnsworth, Paul J. Valdes, Graciela Sotelo, and Sara Varela (2024). Early Jurassic origin of avian endothermy and thermophysiological diversity in dinosaurs. *Current Biology* 34, 1&ndash;11. DOI: [10.1016/j.cub.2024.04.051](https://doi.org/10.1016/j.cub.2024.04.051).
 
-5.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies. *Methods in Ecology and Evolution* 14 (12), 3007&ndash;3019. DOI:[10.1111/2041-210X.14204](https://doi.org/10.1111/2041-210X.14204).
+5.	Kilian Eichenseer and **Lewis A. Jones** (2024). Bayesian multi-proxy reconstruction of early Eocene latitudinal temperature gradients. *Climate of the Past* 20, 349&ndash;362. DOI: [10.5194/cp-20-349-2024](https://doi.org/10.5194/cp-20-349-2024).
 
-6.  William Gearty and **Lewis A. Jones** (2023). rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes. *Methods in Ecology and Evolution* 14 (11), 2700&ndash;2708. DOI:[10.1111/2041-210X.14221](https://doi.org/10.1111/2041-210X.14221).
+6.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies. *Methods in Ecology and Evolution* 14 (12), 3007&ndash;3019. DOI:[10.1111/2041-210X.14204](https://doi.org/10.1111/2041-210X.14204).
 
-7.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). palaeoverse: A community-driven R package to support palaeobiological analysis. *Methods in Ecology and Evolution* 14 (9), 2205&ndash;2215. DOI:[10.1111/2041-210X.14099](https://doi.org/10.1111/2041-210X.14099).
+7.  William Gearty and **Lewis A. Jones** (2023). rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes. *Methods in Ecology and Evolution* 14 (11), 2700&ndash;2708. DOI:[10.1111/2041-210X.14221](https://doi.org/10.1111/2041-210X.14221).
 
-8.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. *Nature Communications* 13 (3120), 1&ndash;10. DOI:[10.1038/s41467-022-30793-8](https://doi.org/10.1038/s41467-022-30793-8).
+8.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sofía Galván, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). palaeoverse: A community-driven R package to support palaeobiological analysis. *Methods in Ecology and Evolution* 14 (9), 2205&ndash;2215. DOI:[10.1111/2041-210X.14099](https://doi.org/10.1111/2041-210X.14099).
 
-9.  **Lewis A. Jones** and Kilian Eichenseer (2022). Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology* 50 (2), 238&ndash;242. DOI:[10.1130/G49132.1](https://doi.org/10.1130/G49132.1).
+9.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. *Nature Communications* 13 (3120), 1&ndash;10. DOI:[10.1038/s41467-022-30793-8](https://doi.org/10.1038/s41467-022-30793-8).
 
-10.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021). Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. *Proceedings of the Royal Society B* 288 (1945), 20202762. DOI:[10.1098/rspb.2020.2762](https://doi.org/10.1098/rspb.2020.2762).
+10.  **Lewis A. Jones** and Kilian Eichenseer (2022). Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology* 50 (2), 238&ndash;242. DOI:[10.1130/G49132.1](https://doi.org/10.1130/G49132.1).
 
-11.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change. *Royal Society Open Science* 6 (4), 182111. DOI:[10.1098/rsos.182111](https://doi.org/10.1098/rsos.182111).
+11.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021). Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. *Proceedings of the Royal Society B* 288 (1945), 20202762. DOI:[10.1098/rspb.2020.2762](https://doi.org/10.1098/rspb.2020.2762).
 
-12.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1091), 1&ndash;14. DOI:[10.1038/s41467-019-08997-2](https://doi.org/10.1038/s41467-019-08997-2).
+12.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change. *Royal Society Open Science* 6 (4), 182111. DOI:[10.1098/rsos.182111](https://doi.org/10.1098/rsos.182111).
+
+13.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1091), 1&ndash;14. DOI:[10.1038/s41467-019-08997-2](https://doi.org/10.1038/s41467-019-08997-2).
 
 ### **Theses**
 
