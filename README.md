@@ -98,15 +98,17 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ### **Other works**
 
-1.  **Lewis A. Jones** (2024). [Meeting report: R for Palaeobiologists: Workshop and Hackathon](https://www.palass.org/publications/newsletter/archive/116/newsletter-no-116). *The Palaeontological Association Newsletter* 116.
+1.  **Lewis A. Jones** (2025). [Introducing the Palaeoverse](https://www.palass.org/publications/newsletter/archive/118/newsletter-no-118). *The Palaeontological Association Newsletter* 118.
 
-2.  **Lewis A. Jones** (2023). [Palaeontology's greatest ever graphs: The absence of evidence: spatial sampling bias in the fossil record](https://www.palass.org/publications/newsletter/archive/114/newsletter-no-114). *The Palaeontological Association Newsletter* 114.
+2.  **Lewis A. Jones** (2024). [Meeting report: R for Palaeobiologists: Workshop and Hackathon](https://www.palass.org/publications/newsletter/archive/116/newsletter-no-116). *The Palaeontological Association Newsletter* 116.
 
-3.  **Lewis A. Jones** (2022). [Book review: Timefulness: How thinking like a geologist can help save the world](https://www.palass.org/publications/newsletter/archive/110/newsletter-no-110). *The Palaeontological Association Newsletter* 110.
+3.  **Lewis A. Jones** (2023). [Palaeontology's greatest ever graphs: The absence of evidence: spatial sampling bias in the fossil record](https://www.palass.org/publications/newsletter/archive/114/newsletter-no-114). *The Palaeontological Association Newsletter* 114.
 
-4.  Michael Stevens, Yiqiao Chen, Alex Stringer, Caitlin Clemmow, and **Lewis A. Jones** (2020). [Key factors driving obesity in the UK](https://drive.google.com/file/d/1MHWMo_bC1pw-hVEddibDvxsinlOK0Tjh/view). *GISRUK* 2020.
+4.  **Lewis A. Jones** (2022). [Book review: Timefulness: How thinking like a geologist can help save the world](https://www.palass.org/publications/newsletter/archive/110/newsletter-no-110). *The Palaeontological Association Newsletter* 110.
 
-5.  **Lewis A. Jones** (2020). [Meeting report: 13th International Symposium of Fossil Cnidaria and Porifera](https://www.palass.org/sites/default/files/media/publications/newsletters/number_102/number_102.pdf). *The Palaeontological Association Newsletter* 102.
+5.  Michael Stevens, Yiqiao Chen, Alex Stringer, Caitlin Clemmow, and **Lewis A. Jones** (2020). [Key factors driving obesity in the UK](https://drive.google.com/file/d/1MHWMo_bC1pw-hVEddibDvxsinlOK0Tjh/view). *GISRUK* 2020.
+
+6.  **Lewis A. Jones** (2020). [Meeting report: 13th International Symposium of Fossil Cnidaria and Porifera](https://www.palass.org/sites/default/files/media/publications/newsletters/number_102/number_102.pdf). *The Palaeontological Association Newsletter* 102.
 
 ## Published software
 
