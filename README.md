@@ -98,7 +98,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ### **Other works**
 
-1.  **Lewis A. Jones** (2025). [Introducing the Palaeoverse](https://www.palass.org/publications/newsletter/archive/118/newsletter-no-118). *The Palaeontological Association Newsletter* 118.
+1.  **Lewis A. Jones**, Christopher D. Dean, and Harriet B. Drage (2025). [Introducing the Palaeoverse](https://www.palass.org/publications/newsletter/archive/118/newsletter-no-118). *The Palaeontological Association Newsletter* 118.
 
 2.  **Lewis A. Jones** (2024). [Meeting report: R for Palaeobiologists: Workshop and Hackathon](https://www.palass.org/publications/newsletter/archive/116/newsletter-no-116). *The Palaeontological Association Newsletter* 116.
 
