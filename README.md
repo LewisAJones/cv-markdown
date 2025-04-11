@@ -4,25 +4,25 @@
 
 # Dr Lewis A. Jones
 
-**Email:** [Lewis.Jones@ucl.ac.uk](mailto:Lewis.Jones@ucl.ac.uk) | **Website:** [www.LewisAJones.com](www.lewisajones.com) | **ORCID:** [0000-0003-3902-8986](https://orcid.org/0000-0003-3902-8986) | **GitHub:** [LewisAJones](https://github.com/LewisAJones)
+**Email:** [LewisA.Jones@outlook.com](mailto:LewisA.Jones@outlook.com) | **Website:** [www.LewisAJones.com](www.lewisajones.com) | **ORCID:** [0000-0003-3902-8986](https://orcid.org/0000-0003-3902-8986) | **GitHub:** [LewisAJones](https://github.com/LewisAJones)
 
  <div align="justify">
 
 ## Research summary
 
-Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms by integrating interdisciplinary tools and sources of information, such as ecological modelling, Earth system modelling, and fossil occurrence datasets. An additional significant theme of research has been evaluating the influence of data incompleteness on perceptions of the geological past. Currently investigating the drivers of marine biodiversity hotspots throughout the Cenozoic and reconstructing their evolutionary history.
+Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms, and marine invertebrate biodiversity more broadly, through the integration of interdisciplinary tools and diverse sources of information, such as ecological modelling, Earth System modelling, and fossil and extant occurrence datasets. An additional significant theme of research has been evaluating the influence of data incompleteness on perceptions of the geological past, such as biodiversity trends, and the development of software tools for the research community. Current research focus is investigating the drivers of marine biodiversity hotspots throughout the Cenozoic and reconstructing their evolutionary history.
 
 **Macroecology and biodiversity** | **Fossil record bias** | **Corals and reef ecosystems** | **Palaeoclimate** | **R programming**
 
 ## Education
 
 **PhD in Palaeobiology** (2016&ndash;2020)  
-Imperial College London, London, UK  
+Department of Earth Science and Engineering, Imperial College London, London, UK  
 Research advisors: Prof. Philip D. Mannion & Prof. Peter A. Allison  
 Thesis title: On the detectability of latitudinal biodiversity gradients in deep time
 
 **MPhysGeog in Physical Geography** (2011&ndash;2015)  
-University of Hull, Hull, UK  
+Department of Geography and Earth Science, University of Hull, Hull, UK  
 Research advisor: Prof. David P.G. Bond  
 Thesis title: The End-Triassic mass extinction. An investigation of the British Geological Record: testing for the role of volcanism and ocean anoxia
 
@@ -76,7 +76,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 6.	Kilian Eichenseer and **Lewis A. Jones** (2024). Bayesian multi-proxy reconstruction of early Eocene latitudinal temperature gradients. *Climate of the Past* 20, 349&ndash;362. DOI: [10.5194/cp-20-349-2024](https://doi.org/10.5194/cp-20-349-2024).
 
-7.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). Mind the Uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies. *Methods in Ecology and Evolution* 14 (12), 3007&ndash;3019. DOI:[10.1111/2041-210X.14204](https://doi.org/10.1111/2041-210X.14204).
+7.  Lucas Buffan, **Lewis A. Jones**, Mathew Domeier, Christopher R. Scotese, Sabin Zahirovic and Sara Varela (2023). Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies. *Methods in Ecology and Evolution* 14 (12), 3007&ndash;3019. DOI:[10.1111/2041-210X.14204](https://doi.org/10.1111/2041-210X.14204).
 
 8.  William Gearty and **Lewis A. Jones** (2023). rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes. *Methods in Ecology and Evolution* 14 (11), 2700&ndash;2708. DOI:[10.1111/2041-210X.14221](https://doi.org/10.1111/2041-210X.14221).
 
@@ -91,6 +91,17 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 13.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change. *Royal Society Open Science* 6 (4), 182111. DOI:[10.1098/rsos.182111](https://doi.org/10.1098/rsos.182111).
 
 14.  Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison (2019). Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1091), 1&ndash;14. DOI:[10.1038/s41467-019-08997-2](https://doi.org/10.1038/s41467-019-08997-2).
+
+### **Submitted and in-preparation manuscripts**
+
+1. **Lewis A. Jones**, Christopher D. Dean, Bethany J. Allen, Harriet B. Drage, Joseph T. Flannery-Sutherland, William Gearty, Alfio A. Chiarenza, Erin M. Dillon, Bruna M. Farina, and Pedro L. Godoy (In review). Ten simple rules to follow when cleaning occurrence data in palaeobiology. *Palaeontology*. Preprint DOI: [10.32942/X2FS8M](https://doi.org/10.32942/X2FS8M).
+
+2. **Lewis A. Jones**, William Gearty, Lucas Buffan, and Bethany J. Allen (In review). Global plate model choice impacts reconstructions of the latitudinal biodiversity gradient. *Royal Society Open Science*. Preprint DOI: [10.1101/2025.01.09.632144](https://doi.org/10.1101/2025.01.09.632144).
+
+3. Angelina Ivki&cacute;, **Lewis A. Jones**, Andreas Kroh, Abbas Mansour, Mohamed Osman, Mohamed Hassan, and Martin Zuschin (In prep.). Reconstructing ecosystem baselines using Pleistocene data: insights from an Egyptian coral reef.
+
+4. **Lewis A. Jones**, Danijela Dimitrijevi&cacute;, Markus Aretz, Francesca R. Bosellini, Juan C. Braga, Clara Diaz, Elizabeth Dowding, Kenneth Johnson, Wolfgang Kiessling, Bernard Lathuilière, Anna Merkel, Kyle Morgan, Michele Morsilli, John M. Pandolfi, Miko&#322;aj K. Zapalski, and Nadia Santodomingo (In prep.). The potential of mesophotic environments to provide refugia for coral communities during times of crises.
+
 
 ### **Theses**
 
@@ -114,13 +125,13 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ## Published software
 
-1. **palaeoverse**: A community-driven R package to support data preparation and exploration for palaeobiological analyses. CRAN: [https://cran.r-project.org/web/packages/palaeoverse/](https://cran.r-project.org/web/packages/palaeoverse/). GitHub: [https://github.com/palaeoverse/palaeoverse](https://github.com/palaeoverse/palaeoverse).  
+1. **palaeoverse**: A community-driven R package to support data preparation and exploration for palaeobiological analyses. CRAN: [https://cran.r-project.org/web/packages/palaeoverse/](https://cran.r-project.org/web/packages/palaeoverse/); GitHub: [https://github.com/palaeoverse/palaeoverse](https://github.com/palaeoverse/palaeoverse).  
 
-2. **rphylopic**: An R package for fetching, transforming, and visualising PhyloPic silhouettes. CRAN: [https://cran.r-project.org/web/packages/rphylopic/](https://cran.r-project.org/web/packages/rphylopic/). GitHub: [https://github.com/palaeoverse/rphylopic](https://github.com/palaeoverse/rphylopic).  
+2. **rphylopic**: An R package for fetching, transforming, and visualising PhyloPic silhouettes. CRAN: [https://cran.r-project.org/web/packages/rphylopic/](https://cran.r-project.org/web/packages/rphylopic/); GitHub: [https://github.com/palaeoverse/rphylopic](https://github.com/palaeoverse/rphylopic).  
 
-3. **sepkoski**: A data R package of Sepkoski's Fossil Marine Animal Genera Compendium (Sepkoski, 2002). CRAN: [https://cran.r-project.org/web/packages/sepkoski/](https://cran.r-project.org/web/packages/sepkoski/). GitHub: [https://github.com/lewisajones/sepkoski](https://github.com/lewisajones/sepkoski).  
+3. **sepkoski**: A data R package of Sepkoski's Fossil Marine Animal Genera Compendium (Sepkoski, 2002). CRAN: [https://cran.r-project.org/web/packages/sepkoski/](https://cran.r-project.org/web/packages/sepkoski/); GitHub: [https://github.com/lewisajones/sepkoski](https://github.com/lewisajones/sepkoski).  
 
-4. **rmacrostrat:** An R package to fetch geologic data from the Macrostrat database. CRAN: [https://cran.r-project.org/web/packages/rmacrostrat/](https://cran.r-project.org/web/packages/rmacrostrat/). GitHub: [https://github.com/palaeoverse/rmacrostrat](https://github.com/palaeoverse/rmacrostrat).  
+4. **rmacrostrat:** An R package to fetch geologic data from the Macrostrat database. CRAN: [https://cran.r-project.org/web/packages/rmacrostrat/](https://cran.r-project.org/web/packages/rmacrostrat/); GitHub: [https://github.com/palaeoverse/rmacrostrat](https://github.com/palaeoverse/rmacrostrat).  
 
 ## Academic awards and grants
 
@@ -278,7 +289,7 @@ Universidade de Vigo, Vigo, Spain
 **Towards more equitable marine research** (2021)  
 Centro de Investigaci&oacute;n Mari&ntilde;a (led by Transmitting Science), Universidade de Vigo, Spain
 
-**Data manipulation and Statistical Analysis in Palaeoecology** (2021)  
+**Data Manipulation and Statistical Analysis in Palaeoecology** (2021)  
 Palaeoecology Group, British Ecological Society, Online
 
 **Doctoral Summer School for Advanced Spatial Modelling** (2019)  
@@ -330,7 +341,7 @@ Department of Earth Sciences, University College London, UK
 - The Earth - Meet Your Researcher (GEOL0007)
 
 **R for Paleobiologists: Getting Started with the palaeoverse R Package** (2024)  
-12<sup>th</sup> North American Paleontological Convention, Ann Arbor, Michigan, USA 
+12<sup>th</sup> North American Paleontological Convention, Ann Arbor, Michigan, USA  
 Organised and ran a workshop on using R in Palaeobiology
 
 **Lab Assistant** (2024)  
