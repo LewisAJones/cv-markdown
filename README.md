@@ -188,6 +188,9 @@ Value: 50 GBP
 
 ## Invited presentations
 
+**Department of Earth Sciences, University College London, London, UK** (2025)  
+Talk: Open Science, Software and Coding
+
 **Centre for Biodiversity and Environment Research, University College London, London, UK** (2024)  
 Talk: Mind the Gap: Reconstructing marine biodiversity through time and space
 
