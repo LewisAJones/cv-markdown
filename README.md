@@ -419,20 +419,20 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 ## Peer-review experience
 
 **Publications**  
-*Big Earth Data Journal*  
-*Ecological Monographs*  
-*Global Ecology and Biogeography*  
-*Journal of Biogeography*  
-*Palaeontology*  
-*Paleobiology*  
-*Methods in Ecology and Evolution*  
-*Nature Communications*  
-*Science Advances*  
-*Scientific Reports*  
-*Trends in Ecology and Evolution*  
+*Big Earth Data Journal* (1)  
+*Ecological Monographs* (1)  
+*Global Ecology and Biogeography* (3)  
+*Journal of Biogeography* (1)  
+*Palaeontology* (2)  
+*Paleobiology* (3)  
+*Methods in Ecology and Evolution* (4)  
+*Nature Communications* (1)  
+*Science Advances* (1)  
+*Scientific Reports* (1)  
+*Trends in Ecology and Evolution* (1)  
 
 **Research proposals**  
-Daphne Jackson Fellowship
+Daphne Jackson Fellowship (1)
 
 ## Skills
 
