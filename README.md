@@ -135,10 +135,14 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ## Academic awards and grants
 
-**Dorothy Bishop Award** (2025)  
+**Benthic marine ecosystem dynamics through time and space (BENEDICTS)** (2025)  
+Proyectos de Generaci&oacute;n de Conocimiento (Knowledge Generation Projects), Spain  
+Role: co-applicant, value: 125,380 EUR
+
+**Dorothy Bishop Award, UK Reproducibility Network** (2025)  
 Early Career Researcher award for promoting and improving open research practices
 
-**Elucidating diversity dynamics in marine tropical hotspots** (2024)  
+**Elucidating diversity dynamics in marine tropical hotspots (EDiTH)** (2024)  
 Natural Environment Research Council Independent Research Fellowship, UK  
 Role: applicant, value: 874,978 GBP
 
