@@ -319,6 +319,10 @@ European Coral Reef Symposium, Oxford, UK
 
 ## Student supervision
 
+**Gloria Herrero** (2025&ndash;Current)  
+Institut de Ci&egrave;ncies del Mar, Spain  
+PhD project: Addressing the origins of marine invertebrate diversity in computer simulations
+
 **Xiaoli Ma** (2024&ndash;2025)  
 Nanjing University, China  
 PhD project: Palaeogeographic reconstructions shape understanding of deep-time climate change
