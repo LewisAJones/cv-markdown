@@ -319,6 +319,10 @@ European Coral Reef Symposium, Oxford, UK
 
 ## Student supervision
 
+**Jason Wang** (2025&ndash;Current)  
+University College London, UK  
+PhD project: The taxonomic and ecomorphological diversity of birds through deep time
+
 **Gloria Herrero** (2025&ndash;Current)  
 Institut de Ci&egrave;ncies del Mar, Spain  
 PhD project: Addressing the origins of marine invertebrate diversity in computer simulations
