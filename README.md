@@ -194,7 +194,7 @@ Value: 50 GBP
 ## Invited presentations
 
 **Department of Earth Sciences, University College London, London, UK** (2025)  
-Talk: Open Science, Software and Coding
+Talk: Open Science, Software, and Coding
 
 **Centre for Biodiversity and Environment Research, University College London, London, UK** (2024)  
 Talk: Mind the Gap: Reconstructing marine biodiversity through time and space
@@ -217,6 +217,9 @@ Talk: Into the palaeoverse: a community-driven R package
 Talk: Ecological modelling in Geosciences
 
 ## Selected conference presentations
+
+**4<sup>th</sup> Crossing the Palaeontological-Ecological Gap Meeting** (Z&uuml;rich, Switzerland, 2025)  
+Poster: Elucidating Diversity Dynamics in Marine Tropical Hotspots: Caribbean
 
 **68<sup>th</sup> Annual Meeting of the Palaeontological Association** (Erlangen, Germany, 2024)  
 Poster: rmacrostrat: An R package for retrieving data from the Macrostrat geological database
@@ -355,6 +358,10 @@ Department of Earth Sciences, University College London, UK
 
 - Advanced Biodiversity and Macroevolutionary Studies (GEOL0036)
 - The Earth - Meet Your Researcher (GEOL0007)
+
+**Building Open Data Science Skills in Palaeobiology and Ecology** (2025)  
+4<sup>th</sup> Crossing the Palaeontological-Ecological Gap Meeting, Z&uuml;rich, Switzerland  
+Organised and ran a workshop on open data science skills
 
 **R for Paleobiologists: Getting Started with the palaeoverse R Package** (2024)  
 12<sup>th</sup> North American Paleontological Convention, Ann Arbor, Michigan, USA  
