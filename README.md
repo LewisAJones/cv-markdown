@@ -102,7 +102,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 4. Angelina Ivki&cacute;, **Lewis A. Jones**, Andreas Kroh, Abbas Mansour, Mohamed Osman, Mohamed Hassan, and Martin Zuschin (In review). Reconstructing ecosystem baselines using Pleistocene data: insights from an Egyptian coral reef. *Coral Reefs*.
 
-5.  Miranta Kouvari, Kateryn Pino, **Lewis A. Jones**, Juan Carrillo, Grace Varnham, Alexander Farnsworth, Anjali Goswami, and Philip Mannion (In review). The impact of Andean uplift and climate on eutherian mammal diversification and the emergence of the present-day latitudinal biodiversity gradient in South America. *Current Biology*.
+5. Miranta Kouvari, Kateryn Pino, **Lewis A. Jones**, Juan Carrillo, Grace Varnham, Alexander Farnsworth, Anjali Goswami, and Philip Mannion (In review). The impact of Andean uplift and climate on eutherian mammal diversification and the emergence of the present-day latitudinal biodiversity gradient in South America. *Current Biology*.
 
 ### **Theses**
 
