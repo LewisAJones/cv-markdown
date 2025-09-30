@@ -43,7 +43,7 @@ Mapas Lab, Centro de Investigaci&oacute;n Mari&ntilde;a, Universidade de Vigo, V
 **Graduate Teaching Assistant** (2016&ndash;2021)  
 Department of Earth Science and Engineering, Imperial College London, London, UK
 
-**Student Hall's Warden** (2016&ndash;2021)  
+**Student Hall's Pastoral Warden** (2016&ndash;2021)  
 Woodward Buildings, Imperial College London, London, UK
 
 **British Army Officer Cadet** (2012&ndash;2015)  
@@ -64,7 +64,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ### **Peer-reviewed publications**
 
-1. Christopher D. Dean, Alfio A. Chiarenza, Jeffrey W. Doser, Alexander Farnsworth, **Lewis A. Jones**, Sin&#233;ad J. Lyster, Charlotte L. Outhwaite, Paul J. Valdes, Richard J. Butler, and Philip D. Mannion (2025). The structure of the end-Cretaceous dinosaur fossil record in North America. *Current Biology*. DOI: [10.1016/j.cub.2025.03.025](https://doi.org/10.1016/j.cub.2025.03.025).
+1. Christopher D. Dean, Alfio A. Chiarenza, Jeffrey W. Doser, Alexander Farnsworth, **Lewis A. Jones**, Sin&#233;ad J. Lyster, Charlotte L. Outhwaite, Paul J. Valdes, Richard J. Butler, and Philip D. Mannion (2025). The structure of the end-Cretaceous dinosaur fossil record in North America. *Current Biology* 35 (9), 1973&ndash;1988 . DOI: [10.1016/j.cub.2025.03.025](https://doi.org/10.1016/j.cub.2025.03.025).
 
 2. Theres Koch, Angelina Ivki&cacute;, **Lewis A. Jones**, Victor S. Scharnhorst, Constanze M. Stix, Antonia Auer, Theda Sch&ouml;chtner, G&ouml;zde &Ouml;zer, Simon Steinwender, Joseph W. Daurella, and Martin Zuschin (2025). Quantifying diversity and growth form distribution of scleractinian corals, in Mangrove Bay, El Qoseir, Egypt. *Biodiversity Data Journal* 13, e134282. DOI: [10.3897/BDJ.13.e134282](https://doi.org/10.3897/BDJ.13.e134282).
 
@@ -72,7 +72,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 4. **Lewis A. Jones** and Mathew Domeier (2024). A Phanerozoic gridded dataset for palaeogeographic reconstructions. *Scientific Data* 11 (710), 1&ndash;7. DOI: [10.1038/s41597-024-03468-w](https://doi.org/10.1038/s41597-024-03468-w).
 
-5.	Alfio A. Chiarenza, Juan L. Cantalapiedra, **Lewis A. Jones**, Sara Gamboa, Sof&iacute;a Galv&aacute;n, Alexander Farnsworth, Paul J. Valdes, Graciela Sotelo, and Sara Varela (2024). Early Jurassic origin of avian endothermy and thermophysiological diversity in dinosaurs. *Current Biology* 34, 1&ndash;11. DOI: [10.1016/j.cub.2024.04.051](https://doi.org/10.1016/j.cub.2024.04.051).
+5.	Alfio A. Chiarenza, Juan L. Cantalapiedra, **Lewis A. Jones**, Sara Gamboa, Sof&iacute;a Galv&aacute;n, Alexander Farnsworth, Paul J. Valdes, Graciela Sotelo, and Sara Varela (2024). Early Jurassic origin of avian endothermy and thermophysiological diversity in dinosaurs. *Current Biology* 34 (11), 2518&ndash;2527. DOI: [10.1016/j.cub.2024.04.051](https://doi.org/10.1016/j.cub.2024.04.051).
 
 6.	Kilian Eichenseer and **Lewis A. Jones** (2024). Bayesian multi-proxy reconstruction of early Eocene latitudinal temperature gradients. *Climate of the Past* 20, 349&ndash;362. DOI: [10.5194/cp-20-349-2024](https://doi.org/10.5194/cp-20-349-2024).
 
@@ -82,11 +82,11 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 9.  **Lewis A. Jones**, William Gearty, Bethany J. Allen, Kilian Eichenseer, Christopher D. Dean, Sof&iacute;a Galv&aacute;n, Miranta Kouvari, Pedro L. Godoy, Cecily Nicholl, Lucas Buffan, Erin M. Dillon, Joseph T. Flannery-Sutherland and A. Alessandro Chiarenza (2023). palaeoverse: A community-driven R package to support palaeobiological analysis. *Methods in Ecology and Evolution* 14 (9), 2205&ndash;2215. DOI:[10.1111/2041-210X.14099](https://doi.org/10.1111/2041-210X.14099).
 
-10.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (2022). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. *Nature Communications* 13 (3120), 1&ndash;10. DOI:[10.1038/s41467-022-30793-8](https://doi.org/10.1038/s41467-022-30793-8).
+10.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, and Daniel J. Lunt (2022). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. *Nature Communications* 13 (3120), 1&ndash;10. DOI:[10.1038/s41467-022-30793-8](https://doi.org/10.1038/s41467-022-30793-8).
 
 11.  **Lewis A. Jones** and Kilian Eichenseer (2022). Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology* 50 (2), 238&ndash;242. DOI:[10.1130/G49132.1](https://doi.org/10.1130/G49132.1).
 
-12.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison (2021). Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. *Proceedings of the Royal Society B* 288 (1945), 20202762. DOI:[10.1098/rspb.2020.2762](https://doi.org/10.1098/rspb.2020.2762).
+12.  **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, and Peter A. Allison (2021). Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. *Proceedings of the Royal Society B* 288 (1945), 20202762. DOI:[10.1098/rspb.2020.2762](https://doi.org/10.1098/rspb.2020.2762).
 
 13.  **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison (2019). Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change. *Royal Society Open Science* 6 (4), 182111. DOI:[10.1098/rsos.182111](https://doi.org/10.1098/rsos.182111).
 
@@ -122,7 +122,7 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 5.  Michael Stevens, Yiqiao Chen, Alex Stringer, Caitlin Clemmow, and **Lewis A. Jones** (2020). [Key factors driving obesity in the UK](https://drive.google.com/file/d/1MHWMo_bC1pw-hVEddibDvxsinlOK0Tjh/view). *GISRUK* 2020.
 
-6.  **Lewis A. Jones** (2020). [Meeting report: 13th International Symposium of Fossil Cnidaria and Porifera](https://www.palass.org/sites/default/files/media/publications/newsletters/number_102/number_102.pdf). *The Palaeontological Association Newsletter* 102.
+6.  **Lewis A. Jones** (2020). [Meeting report: 13<sup>th</sup> International Symposium of Fossil Cnidaria and Porifera](https://www.palass.org/sites/default/files/media/publications/newsletters/number_102/number_102.pdf). *The Palaeontological Association Newsletter* 102.
 
 ## Published software
 
@@ -135,6 +135,9 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 4. **rmacrostrat:** An R package to fetch geologic data from the Macrostrat database. CRAN: [https://cran.r-project.org/web/packages/rmacrostrat/](https://cran.r-project.org/web/packages/rmacrostrat/). GitHub: [https://github.com/palaeoverse/rmacrostrat](https://github.com/palaeoverse/rmacrostrat).  
 
 ## Academic awards and grants
+
+**Open Science and Scholarship Awards, University College London**  
+Runner-up award for 'Enhancing open science and reproducibility capacity in the academic community'  
 
 **Benthic marine ecosystem dynamics through time and space (BENEDICTS)** (2025)  
 Proyectos de Generaci&oacute;n de Conocimiento (Knowledge Generation Projects), Spain  
@@ -171,7 +174,7 @@ Role: co-applicant, value: 1000 USD
 Grant-in-Aid from The Palaeontological Association, UK  
 Role: applicant, value: 2000 GBP
 
-**Juan de la Cierva Fellowship** (2022)  
+**Juan de la Cierva Postdoctoral Research Fellowship** (2022)  
 Agencia Estatal de Investigaci&oacute;n, Spain  
 Role: applicant, value: 64,800 EUR
 
@@ -185,7 +188,7 @@ Role: applicant, value: 220 EUR
 
 **President's PhD Scholarship** (2016)  
 Imperial College London, London, UK  
-Role: applicant, value: 70,000 GBP
+Role: applicant, value: 79,000 GBP
 
 **Roger Ward thesis award** (2015)  
 Awarded for best Master's thesis, University of Hull, Hull, UK  
@@ -353,7 +356,7 @@ Master's project: Spatial discrepancies in palaeogeographic reconstructions
 
 ## Teaching and pastoral care
 
-**Tutor** (2024&ndash;Current)  
+**Guest Lecturer** (2024&ndash;Current)  
 Department of Earth Sciences, University College London, UK  
 
 - Advanced Biodiversity and Macroevolutionary Studies (GEOL0036)
@@ -384,7 +387,7 @@ Imperial College London, London, UK
 -   Dorset (UK) geology field course
 -   Almer&iacute;a (Spain) geology field course
 
-**Student Hall's Warden** (2016&ndash;2021)  
+**Student Hall's Pastoral Warden** (2016&ndash;2021)  
 Woodward Buildings, Imperial College London, London, UK
 
 ## Professional appointments, service, and outreach
@@ -411,10 +414,10 @@ Monthly lecture series on recent advances in computational tools and methods in 
 Session chair: Research Methods
 
 **IFCRS Internet Officer** (2023&ndash;current)  
-Committee member of the International Fossil Coral and Reef Society (IFCRS)
+Council member of the International Fossil Coral and Reef Society (IFCRS)
 
 **IFCRS Early Career Researcher Representative** (2021&ndash;2023)  
-Committee member of the International Fossil Coral and Reef Society (IFCRS)
+Council member of the International Fossil Coral and Reef Society (IFCRS)
 
 **IFCRS Lecture Series** (2022)  
 International Fossil Coral and Reef Society, Online  
@@ -471,10 +474,10 @@ Full EU driving license
 
 ## Memberships
 
-Member of the International Fossil Coral and Reef Society (2018&ndash;present)  
+Member of the British Ecological Society (2017&ndash;present)  
 Member of the Palaeontological Association (2017&ndash;present)  
-Member of the Paleontological Society (2023&ndash;present)  
+Member of the International Fossil Coral and Reef Society (2018&ndash;present)  
 Member of the Conservation Paleobiology Network (2019&ndash;present)  
-Member of the British Ecological Society (2017&ndash;present)
+Member of the Paleontological Society (2023&ndash;present)
 
 </div>
