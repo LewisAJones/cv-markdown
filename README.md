@@ -393,6 +393,9 @@ Woodward Buildings, Imperial College London, London, UK
 
 ## Professional appointments, service, and outreach
 
+**Early Career Researcher Forum, Faculty of Mathematical & Physical Sciences** (2025&ndash;Current)  
+Early Career Researcher representative for the Department of Earth Sciences
+
 **Generation Hope, Natural History Museum, London, UK** (2025)  
 Outreach science stall on coral resilience
 
