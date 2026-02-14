@@ -140,6 +140,10 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 Take Bold Action for Inclusion, Faculty of Mathematical & Physical Sciences, University College London, UK  
 Role: applicant, value: 2400 GBP (+ 2400 GBP match funding from the Department of Earth Sciences)  
 
+**Converting Users to Contributors: Enabling Sustainable Maintenance and Development of Palaeoverse** (2025)  
+Research Software Maintenance Fund, Software Sustainability Institute, UK  
+Role: applicant, value: 634,129 GBP
+
 **Open Science and Scholarship Awards, University College London**  
 Runner-up award for 'Enhancing open science and reproducibility capacity in the academic community'  
 
