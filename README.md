@@ -64,13 +64,13 @@ Visiting researcher in the Conservation Palaeobiology and Historical Ecology Lab
 
 ### **Peer-reviewed publications**
 
-1. **Lewis A. Jones**, Christopher D. Dean, Bethany J. Allen, Harriet B. Drage, Joseph T. Flannery-Sutherland, William Gearty, Alfio A. Chiarenza, Erin M. Dillon, Bruna M. Farina, and Pedro L. Godoy (2025). Ten simple rules to follow when cleaning occurrence data in palaeobiology. *Palaeontology* 68(5), e70028. DOI: [10.1111/pala.70028](https://doi.org/10.1111/pala.70028).
+1. **Lewis A. Jones**, Christopher D. Dean, Bethany J. Allen, Harriet B. Drage, Joseph T. Flannery-Sutherland, William Gearty, Alfio A. Chiarenza, Erin M. Dillon, Bruna M. Farina, and Pedro L. Godoy (2025). Ten simple rules to follow when cleaning occurrence data in palaeobiology. *Palaeontology* 68: e70028. DOI: [10.1111/pala.70028](https://doi.org/10.1111/pala.70028).
 
 2. Christopher D. Dean, Alfio A. Chiarenza, Jeffrey W. Doser, Alexander Farnsworth, **Lewis A. Jones**, Sin&#233;ad J. Lyster, Charlotte L. Outhwaite, Paul J. Valdes, Richard J. Butler, and Philip D. Mannion (2025). The structure of the end-Cretaceous dinosaur fossil record in North America. *Current Biology* 35 (9), 1973&ndash;1988 . DOI: [10.1016/j.cub.2025.03.025](https://doi.org/10.1016/j.cub.2025.03.025).
 
-3. Theres Koch, Angelina Ivki&cacute;, **Lewis A. Jones**, Victor S. Scharnhorst, Constanze M. Stix, Antonia Auer, Theda Sch&ouml;chtner, G&ouml;zde &Ouml;zer, Simon Steinwender, Joseph W. Daurella, and Martin Zuschin (2025). Quantifying diversity and growth form distribution of scleractinian corals, in Mangrove Bay, El Qoseir, Egypt. *Biodiversity Data Journal* 13, e134282. DOI: [10.3897/BDJ.13.e134282](https://doi.org/10.3897/BDJ.13.e134282).
+3. Theres Koch, Angelina Ivki&cacute;, **Lewis A. Jones**, Victor S. Scharnhorst, Constanze M. Stix, Antonia Auer, Theda Sch&ouml;chtner, G&ouml;zde &Ouml;zer, Simon Steinwender, Joseph W. Daurella, and Martin Zuschin (2025). Quantifying diversity and growth form distribution of scleractinian corals, in Mangrove Bay, El Qoseir, Egypt. *Biodiversity Data Journal* 13: e134282. DOI: [10.3897/BDJ.13.e134282](https://doi.org/10.3897/BDJ.13.e134282).
 
-4. **Lewis A. Jones**, Christopher D. Dean, William Gearty, and Bethany J. Allen (2024). rmacrostrat: An R package for accessing and retrieving data from the Macrostrat geological database. *Geosphere* 20(6), 1456&ndash;1467. DOI: [10.1130/GES02815.1](https://doi.org/10.1130/GES02815.1).
+4. **Lewis A. Jones**, Christopher D. Dean, William Gearty, and Bethany J. Allen (2024). rmacrostrat: An R package for accessing and retrieving data from the Macrostrat geological database. *Geosphere* 20 (6), 1456&ndash;1467. DOI: [10.1130/GES02815.1](https://doi.org/10.1130/GES02815.1).
 
 5. **Lewis A. Jones** and Mathew Domeier (2024). A Phanerozoic gridded dataset for palaeogeographic reconstructions. *Scientific Data* 11 (710), 1&ndash;7. DOI: [10.1038/s41597-024-03468-w](https://doi.org/10.1038/s41597-024-03468-w).
 
@@ -145,7 +145,7 @@ Research Software Maintenance Fund, Software Sustainability Institute, UK
 Role: applicant, value: 634,129 GBP
 
 **Open Science and Scholarship Awards, University College London**  
-Runner-up award for 'Enhancing open science and reproducibility capacity in the academic community'  
+Runner-up award for enhancing open science and reproducibility capacity in the academic community
 
 **Benthic marine ecosystem dynamics through time and space (BENEDICTS)** (2025)  
 Proyectos de Generaci&oacute;n de Conocimiento (Knowledge Generation Projects), Spain  
@@ -208,7 +208,7 @@ Value: 50 GBP
 Talk: Open Science, Software, and Coding
 
 **Centre for Biodiversity and Environment Research, University College London, London, UK** (2024)  
-Talk: Mind the Gap: Reconstructing marine biodiversity through time and space
+Talk: Mind the gap: reconstructing marine biodiversity through time and space
 
 **Computational Palaeobiology Mini-Symposium** (2024)  
 Department of Biosystems Science and Engineering, ETH Z&uuml;rich, Basel, Switzerland  
@@ -216,7 +216,7 @@ Talk: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobi
 
 **Methods in Ecology and Evolution: Live!** (2023)  
 British Ecological Society, Online workshop  
-Talk: Introduction to rphylopic: An R package for fetching, transforming, and visualising PhyloPic silhouettes
+Talk: Introduction to rphylopic: an R package for fetching, transforming, and visualising PhyloPic silhouettes
 
 **Department of Palaeontology, University of Vienna, Austria** (2023)  
 Talk: Into the palaeoverse: a community-driven R package
@@ -233,12 +233,12 @@ Talk: Ecological modelling in Geosciences
 Poster: Elucidating Diversity Dynamics in Marine Tropical Hotspots: Caribbean
 
 **68<sup>th</sup> Annual Meeting of the Palaeontological Association** (Erlangen, Germany, 2024)  
-Poster: rmacrostrat: An R package for retrieving data from the Macrostrat geological database
+Poster: rmacrostrat: an R package for retrieving data from the Macrostrat geological database
 
 **12<sup>th</sup> North American Paleontological Convention** (Ann Arbor, Michigan, USA, 2024)  
 Talk: Mind the uncertainty: Global Plate Model choice impacts deep-time palaeobiological studies  
-Poster: palaeoverse: A community-driven R package to support palaeobiological analyses  
-Poster: rmacrostrat: An R package for retrieving data from the Macrostrat geological database
+Poster: palaeoverse: a community-driven R package to support palaeobiological analyses  
+Poster: rmacrostrat: an R package for retrieving data from the Macrostrat geological database
 
 **14<sup>th</sup> International Fossil Coral and Reef Society symposium** (Ch&#281;ciny, Poland, 2023)  
 Talk: Inverse latitudinal diversity gradients in Last Interglacial coral reef communities
@@ -375,7 +375,7 @@ Department of Earth Sciences, University College London, UK
 4<sup>th</sup> Crossing the Palaeontological-Ecological Gap Meeting, Z&uuml;rich, Switzerland  
 Organised and ran a workshop on open data science skills
 
-**R for Paleobiologists: Getting Started with the palaeoverse R Package** (2024)  
+**R for Paleobiologists: getting started with the palaeoverse R Package** (2024)  
 12<sup>th</sup> North American Paleontological Convention, Ann Arbor, Michigan, USA  
 Organised and ran a workshop on using R in Palaeobiology
 
@@ -412,7 +412,7 @@ Early Career Researcher representative for the Department of Earth Sciences
 Outreach science stall on coral resilience
 
 **Scientific Associate, Natural History Museum, London, UK** (2025&ndash;Current)  
-Palaeontology, Department of Earth Sciences
+Palaeontology, Science Group
 
 **Handling Editor for *Open Palaeontology*** (2024&ndash;Current)  
 *Open Palaeontology* is a new international Diamond Open Access journal promoting open science in the field of palaeontology
@@ -458,7 +458,7 @@ Co-organised and ran the annual meeting of the Palaeontological Association
 ## Peer-review experience
 
 **Publications**  
-*Big Earth Data Journal* (1), *Conservation Biology* (1), *Ecological Monographs* (1), *Global Ecology and Biogeography* (3), *Journal of Biogeography* (1), *Palaeontology* (2), *Paleobiology* (3), *Methods in Ecology and Evolution* (4), *Nature Communications* (1), *Science Advances* (1), *Scientific Reports* (1), *Trends in Ecology and Evolution* (1)  
+*Big Earth Data Journal* (1), *Conservation Biology* (1), *Ecological Monographs* (1), *Global Ecology and Biogeography* (3), *Journal of Biogeography* (1), *Palaeontology* (2), *Paleobiology* (3), *Methods in Ecology and Evolution* (4), *Nature Communications* (1), *Science Advances* (1), *Scientific Reports* (1), *Trends in Ecology and Evolution* (1)
 
 **Research proposals**  
 Daphne Jackson Fellowship (1)
@@ -498,37 +498,5 @@ Member of the Palaeontological Association (2017&ndash;present)
 Member of the International Fossil Coral and Reef Society (2018&ndash;present)  
 Member of the Conservation Paleobiology Network (2019&ndash;present)  
 Member of the Paleontological Society (2023&ndash;present)
-
-## Research statement
-
-### Current research plans
-
-I am currently a NERC Independent Research Fellow (2024&ndash;2029) working on the project 'Elucidating Diversity Dynamics in Marine Tropical Hotspots' (EDiTH). Today, global marine biodiversity peaks in the Indo-Australian Archipelago, yet the fossil record suggests that the locations of marine biodiversity hotspots have shifted repeatedly, with at least four distinct centres identified during the Cenozoic (last 66 million years). For my fellowship, I am reconstructing the evolutionary history of these biodiversity hotspots and testing the mechanisms that drove their emergence, persistence, and decline. To do so, I am combining Earth System Modelling with palaeontological data (corals) to perform state-of-the-art macroecological and macroevolutionary modelling.
-
-In addition to my current research focus, I am co-leading a large interdisciplinary working group with Dr Nadia Santodomingo (Senckenberg Research Institute and Natural History Museum, Germany) through the 'Mesophotic and turbid reefs as key ecosystems for the future?' (MURKY) project. Today, increasingly frequent and intense marine heatwaves are driving widespread coral mortality within the euphotic zone. In contrast, mesophotic coral ecosystems often show greater resilience, leading to the hypothesis that they may serve as refugia under accelerating climate change. Yet, whether mesophotic environments offer long-term refuge remains unclear. Through the MURKY project, I am aiming to address this research gap by bridging neontological and palaeontological perspectives to understand whether mesophotic environments served as refugia for coral communities during past climatic change events (e.g. hyperthermals). 
-
-Through partnership with Dr Kenneth Johnson (Natural History Museum, UK) and George Oates (Flickr Foundation), I am currently co-leading the 'Archival Reef Imagery for Ecological Legacies' (ARIEL) project. This project is focused on building a global database of historical photographs of coral reefs to document their decline, and to help address the socio-psychological phenomenon of 'shifting baselines'. The project is currently in its first phase, focused on public engagement through imagery. After this initial phase, we intend to use these historical archives in combination with AI-driven image recognition software to extract ecologically-relevant data (e.g. presence/absence of species, changes in fish sizes/populations) and quantify temporal shifts.
-
-Finally, I am the founder of Palaeoverse ([https://palaeoverse.org](https://palaeoverse.org)), an organisation aiming to bring the palaeobiological community together to share resources, reach agreed standards, and improve reproducibility in the discipline. To date, this has led to the generation of various community resources including software toolkits such as the palaeoverse R package. Recently, I secured a large award from the Software Sustainability Institute's Research Software Maintenance Fund to carry out the project 'Converting Users to Contributors: Enabling Sustainable Maintenance and Development of Palaeoverse' (2026&ndash;2028). The project will strengthen the Palaeoverse ecosystem by improving package maintainability, expanding contributor documentation, delivering community training and mentorship for early-career researchers, and reforming governance to support long-term, community-led sustainability.
-
-### Future research plans
-
-Over the next five years, I plan to build and lead my own research group focused on deep-time marine macroecology and macroevolution, expanding the scope of my research in two directions. First, I plan to submit a European Research Council Starting Grant proposal next year focused on modelling the dispersal of marine organisms across spatial (local, regional, global) and temporal scales (past, present, and future), including geological timescales. The project will develop novel tools, frameworks, and resources for simulating dispersal, and will assess how key drivers&ndash;such as climate change, sea-level fluctuations, and tectonic processes&ndash;influence dispersal dynamics and, ultimately, shape biodiversity patterns (e.g. the emergence of biodiversity hotspots). This research will further strengthen my active collaborations with Earth System modellers within the School of Geographical Sciences (e.g. Prof. Paul Valdes, Prof. Dan Lunt, Dr Alexander Farnsworth) at the University of Bristol. Looking further ahead (5+ years), I aim to pursue an ERC Synergy Grant to establish a large, international research network to evaluate the generality of biodiversity trajectories (past, present, future) within the Indo-Australian Archipelago marine biodiversity hotspot across multiple taxonomic groups. I will also continue to actively support prospective PhD students and postdoctoral research fellows. For example, I am currently co-developing projects to work on themes such as the evolution of photosymbiosis in corals and leveraging AI-driven data mining tools for historical ecology and conservation palaeobiology. Over the next ten years, I aim to cement myself as a global research leader in marine macroecology and macroevolution. At that stage, I envisage pursuing significant funding opportunities such as Leverhulme Research Centres or Leverhulme Doctoral Scholarship to further reshape the field and transform our understanding of marine macroecology and macroevolution. In summary, I aim to dedicate my research to investigating how biodiversity responds to environmental change across timescales, from the deep past to the Anthropocene.
-
-## Teaching statement
-
-My teaching philosophy is rooted in fostering active learning, student motivation, and a supportive environment. I believe that learning is most effective when it is student-centred, grounded in constructivist principles that view knowledge as something students actively build through meaningful engagement. By embedding active learning across all teaching contexts&ndash;lectures, laboratories, tutorials, and fieldwork&ndash;I aim to inspire curiosity, critical thinking, and a lifelong passion for learning. I strive to create a flexible and inclusive learning environment that recognises the diverse backgrounds, skills, and motivations of students. This includes tailoring discussions to highlight the broader relevance of topics, encouraging intrinsic motivation, and clearly communicating learning outcomes and transferable skills. **My goal is to equip students with the ability to teach themselves and others, fostering independence, confidence, and collaboration**.
-
-I have extensive teaching experience across undergraduate and postgraduate levels in Life and Earth Sciences at four universities, in three different countries. My roles have encompassed leading small-group tutorials, supervising laboratory practicals, demonstrating in the field, running seminars and workshops, delivering guest lectures, and engaging wider audiences through public outreach. My teaching primarily focuses on palaeobiology, ecology, programming, and open science skills. This diverse experience reflects my capacity and enthusiasm for engaging in a broad range of teaching contexts.
-
-During my PhD at Imperial College London (2016&ndash;2020), I served as a Graduate Teaching Assistant in the Department of Earth Science and Engineering, where I supported palaeobiology courses and geology field trips, such as those in Almer&iacute;a, Spain. As a postdoctoral researcher (2021&ndash;2024), I contributed to teaching the 'Computational Tools in Biology' course at the University of Vigo (Spain) and the 'Conservation Palaeobiology and Historical Ecology' field course in El Qoseir, Egypt, for the University of Vienna (Austria). In my current fellowship (2024&ndash;Present), I design and deliver original content and teaching materials for guest lectures in modules such as 'Vertebrate Palaeontology and Evolution' and 'Advanced Biodiversity and Macroevolutionary Studies' at University College London. Through these varied experiences, I have demonstrated my ability to design, deliver, and support teaching across different modules and settings.
-
-In assessing student progress, I employ a range of formal and informal techniques. These include marking reports, using reflective exercises such as identifying the 'muddiest point' from lecture materials, and posing targeted questions to gauge understanding and guide further learning. I prioritise providing constructive, targeted feedback to support continuous improvement. In small-group tutorials, this involves group discussions of challenging topics, encouraging students to explain concepts to one another, and fostering peer-to-peer learning. I find this approach helps students monitor their learning, promoting self-directed and independent study.
-
-Postgraduate supervision has been a large aspect of my teaching experience to date. I have co-supervised three Master's students and currently co-supervise four PhD student projects, providing guidance on research design, data analysis, scientific writing, and career planning. I place equal emphasis on technical training and professional growth, encouraging students to publish their research, present at conferences, and develop transferable skills. This approach has yielded strong results to date, with two Master's students publishing their research in *Methods in Ecology and Evolution* and *Biodiversity Data Journal*, while a third has a manuscript currently under review in *Current Biology*. I would highly value the opportunity to supervise further at the University of Bristol, and actively support the development of individuals on a one-to-one basis.
-
-Beyond formal university teaching, I actively engage in training the wider research community, particularly early career researchers. Over the past three years, I have developed and led multiple workshops on programming and open science skills at major palaeontological and ecological conferences, including most recently at the 'Crossing the Palaeontological&ndash;Ecological Gap' meeting in Zurich, Switzerland (2025). Additionally, I have delivered invited online lectures and workshops for organisations such as the British Ecological Society's 'MEE Live!' series and PalaeoSIG's 'Masterclass in R'. Outside academic settings, I have also engaged in a number of outreach activities, including running public science stalls (e.g. Generation Hope, Natural History Museum; Einstein's Garden, Greenman Music Festival). If appointed to this position, I would take great pride in contributing to the School of Biological Sciences' outreach and engagement activities, especially those involving local schools, natural history film makers, and policy makers.
-
-The emphasis on quality undergraduate and postgraduate education at the University of Bristol is a major reason for my interest in this position. I am strongly committed to continuous professional development in teaching and would pursue accreditation from the Higher Education Academy if appointed to this position. I am enthusiastic about contributing to a broad range of existing undergraduate and postgraduate modules within the School of Biological Sciences, such as 'Diversity of Life', 'Evolutionary Biology', 'Ecology and Conservation', 'Quantitative and Computational Methods', 'Practical Research Skills', 'Blue Planet', and 'Understanding Data: Experimental Design and Statistics for Life Scientists', and I am well positioned to contribute to the joint honours MSci in Palaeontology and Evolution. Additionally, I am passionate about developing new modules focused on 'Invertebrate Palaeontology', 'Phanerozoic Reef Evolution', and 'Historical Ecology and Conservation Palaeobiology', with the latter potentially containing a field-based research project. These modules could serve to further bridge the School of Biological Sciences and School of Earth Sciences. Furthermore, I am deeply committed to advancing programming and open science education, which I consider foundational for students' future success in both academia and industry. If appointed, I would relish the opportunity to contribute to existing modules on these themes and to develop new content that supports students in building robust, transferable skills. Through these contributions, I would aim to inspire curiosity, critical thinking, and a lifelong passion for learning among my students, while supporting the University of Bristol's commitment to excellence in education.
 
 </div>
