@@ -12,7 +12,7 @@
 
 Palaeobiologist examining the macroecological and macroevolutionary history of reef-building organisms, and marine invertebrate biodiversity more broadly, through the integration of interdisciplinary tools and diverse sources of information, such as ecological modelling, Earth System modelling, and fossil and extant occurrence datasets. An additional significant theme of research has been evaluating the influence of data incompleteness on perceptions of the geological past, such as biodiversity trends, and the development of software tools for the research community. Current research focus is investigating the drivers of marine biodiversity hotspots throughout the Cenozoic and reconstructing their evolutionary history.
 
-**Macroecology and biodiversity** | **Fossil record bias** | **Corals and reef ecosystems** | **Palaeoclimate** | **R programming**
+**Macroecology and biodiversity** | **Corals and reef ecosystems** | **Fossil record bias** | **Palaeoclimate** | **R programming**
 
 ## Education
 
@@ -407,6 +407,9 @@ Imperial College London, London, UK
 Woodward Buildings, Imperial College London, London, UK
 
 ## Professional appointments, service, and outreach
+
+**Lessons from the past: what do ancient reefs tell us about the future of coral reef ecosystems?** (Auckland, New Zealand, 2026)  
+Co-organised and ran a symposium at the 16<sup>th</sup> International Coral Reef Symposium
 
 **IFCRS 4<sup>th</sup> Early Career Researcher Symposium** (2025)  
 International Fossil Coral and Reef Society, Online  
