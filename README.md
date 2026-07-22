@@ -231,6 +231,11 @@ Talk: Ecological modelling in Geosciences
 
 ## Selected conference presentations
 
+**16<sup>th</sup> International Coral Reef Symposium** (Auckland, New Zealand, 2026)  
+Talk: The EDiTH Project: Elucidating diversity dynamics in Cenozoic marine tropical hotspots  
+Poster: Morphological traits as proxies of fossil coral photosymbiotic state  
+Poster: Shining a Light on Dark Data: Towards a Sustainable Community Repository for Historical Reef Imagery
+
 **4<sup>th</sup> Crossing the Palaeontological-Ecological Gap Meeting** (Z&uuml;rich, Switzerland, 2025)  
 Poster: Elucidating Diversity Dynamics in Marine Tropical Hotspots: Caribbean
 
