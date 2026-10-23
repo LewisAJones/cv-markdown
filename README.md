@@ -430,6 +430,9 @@ Woodward Buildings, Imperial College London, London, UK
 
 ## Professional appointments, service, and outreach
 
+**Reefs in a changing world: Perspectives from deep time** (2026&ndash;2028)  
+Guest Editor for *npj Biodiversity* Collection
+
 **Lessons from the past: what do ancient reefs tell us about the future of coral reef ecosystems?** (Auckland, New Zealand, 2026)  
 Co-organised and ran a symposium at the 16<sup>th</sup> International Coral Reef Symposium
 
@@ -443,7 +446,7 @@ Early Career Researcher representative for the Department of Earth Sciences
 **Generation Hope, Natural History Museum, London, UK** (2025)  
 Outreach science stall on coral resilience
 
-**Scientific Associate, Natural History Museum, London, UK** (2025&ndash;Current)  
+**Scientific Associate, Natural History Museum, London, UK** (2025&ndash;2026)  
 Palaeontology, Science Group
 
 **Handling Editor for *Open Palaeontology*** (2024&ndash;Current)  
